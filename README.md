@@ -11,7 +11,7 @@ $$
 dX_t = a(b - X_t) dt + σ* \sqrt(X_t) dW_t
 $$
 
-This equation models the dynamics of a stochastic time series according to the [M10a model](Docs\SDE_Manual.pdf), where:
+This equation models the dynamics of a stochastic time series according to the [M10a model](Docs/), where:
 
 - `X_t` is the stochastic variable representing the time series.
 - `a` and `b` are parameters of the model.
