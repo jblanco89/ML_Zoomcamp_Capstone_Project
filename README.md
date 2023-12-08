@@ -29,7 +29,7 @@ One hundred simulations have been conducted using the stochastic model with the 
 - `b = 0.1`
 - `sigma = 5`
 
-These simulations aim to generate 100 datasets of time series that emulate the behavior of `weekly` sales for the past `five` years across `100` different stores. The simulations were performed using the Finance Toolbox in `MATLAB R2021b `for the Stochastic Differential Equation (SDE) model [(see here)](matlab\SDE_M10a.m). The Finance Toolbox provides tools and functions tailored for financial modeling, making it a suitable choice for capturing the complexities of sales dynamics in a retail context.
+These simulations aim to generate 100 datasets of time series that emulate the behavior of `weekly` sales for the past `five` years across `100` different stores. The simulations were performed using the Finance Toolbox in `MATLAB R2021b `for the Stochastic Differential Equation (SDE) model [(see here)](matlab/SDE_M10a.m). The Finance Toolbox provides tools and functions tailored for financial modeling, making it a suitable choice for capturing the complexities of sales dynamics in a retail context.
 
 Each simulation provides insights into the stochastic dynamics of the sales process, capturing both deterministic trends and stochastic fluctuations that may resemble real-world scenarios.
 
@@ -40,25 +40,25 @@ The simulations of the stochastic differential equation (SDE) with the specified
 
 1. **Simulated Time Series:**
 
-   ![Simulated Time Series](img\simulations.png)
+   ![Simulated Time Series](img/simulations.png)
 
    This plot illustrates the trajectories of the stochastic process across multiple simulations. It provides an overview of the evolving behavior of the time series.
 
 2. **First Derivative:**
 
-   ![First Derivative](img\first_diff.png)
+   ![First Derivative](img/first_diff.png)
 
    The first derivative plot depicts the rate of change of the simulated time series. It highlights trends and variations in the slope, offering valuable insights into the underlying dynamics.
 
 3. **Second Derivative:**
 
-   ![Second Derivative](img\second_diff.png)
+   ![Second Derivative](img/second_diff.png)
 
    The second derivative plot further analyzes the acceleration of the simulated time series. It helps identify points of inflection and provides a deeper understanding of the system's dynamics.
 
 4. **Density Histograms of 5 Datasets:**
 
-   ![Density Histograms](img\kdensity.png)
+   ![Density Histograms](img/kdensity.png)
 
    This composite plot showcases the density histograms of five datasets generated from the simulations. It offers a visual representation of the distribution of values within each dataset, aiding in the analysis of variability.
 
