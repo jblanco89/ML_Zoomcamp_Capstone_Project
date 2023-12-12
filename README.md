@@ -15,7 +15,7 @@ Cohort 2023-2024
    2. [Simulations Overview](#simulations-overview)
    3. [Simulation Results](#simulation-results)
 4. [Technical Solution](#technical-solution)
-5. [Tech Stack](#tech-stack)
+5. [Software and Tools Used](#software-and-tools-used)
 6. [Exploratory Data Analysis](#exploratory-data-analysis)
 7. [Model Experiment and Final Hyperparameters](#model-experiment-and-final-hyperparameters)
 8. [Results](#results)
@@ -94,9 +94,7 @@ These visualizations collectively provide a comprehensive overview of the stocha
 
 ## Software and Tools Used
 
-## Technical Solution
-
-### Programming Languages:
+#### Programming Languages:
 
 1. **Matlab R2021a:**
    - **Description:** Used for modeling Stochastic Differential Equations (SDE) and creating synthetic time series datasets.
@@ -104,19 +102,19 @@ These visualizations collectively provide a comprehensive overview of the stocha
 2. **Python 3.8.18:**
    - **Description:** Main programming language for data analysis, machine learning, and project implementation.
 
-### Development Environment:
+#### Development Environment:
 3. **Anaconda (Miniconda):**
    - **Description:** Python and dependencies distribution.
 
-### Project Management:
+#### Project Management:
 4. **MLFlow:**
    - **Description:** Used for tracking experiments, packaging code into reproducible runs, and sharing and deploying models, specially tunning hyperparameter.
 
-### Collaborative Development:
+#### Collaborative Development:
 5. **Google Colab:**
    - **Description:** Cloud-based platform for Python that allows collaborative editing of Jupyter notebooks.
 
-### Libraries and Frameworks:
+#### Libraries and Frameworks:
 6. **Statsmodel:**
    - **Description:** Utilized for statistical modeling and hypothesis testing, ETS and Theta models were taken from this library.
 
