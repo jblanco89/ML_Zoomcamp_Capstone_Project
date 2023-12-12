@@ -1,10 +1,36 @@
+# Stochastic Time Series Analysis and Forecasting
+## An ensemble learning approach
+### ML Zoomcamp Capstone Project
 
-### Project Approach
+**Javier Blanco**
+
+Cohort 2023-2024
+
+# Table of Contents
+
+1. [Project Approach](#project-approach)
+2. [Motivation](#motivation)
+3. [Synthetic Data and Time Series Dataset](#synthetic-data-and-time-series-dataset)
+   1. [Stochastic Differential Equation (SDE) Object](#stochastic-differential-equation-sde-object)
+   2. [Simulations Overview](#simulations-overview)
+   3. [Simulation Results](#simulation-results)
+4. [Technical Solution](#technical-solution)
+5. [Tech Stack](#tech-stack)
+6. [Exploratory Data Analysis](#exploratory-data-analysis)
+7. [Model Experiment and Final Hyperparameters](#model-experiment-and-final-hyperparameters)
+8. [Results](#results)
+9. [Main Conclusions](#main-conclusions)
+10. [References](#references)
+
+
+## Project Approach
 
 For this project, I chose to experiment with time series forecasting methods based on `XGBoost` as an ensemble learner and other methods such as `ARIMA` `EST`, and `Theta` as base learner models. The goal was to develop a more robust machine learning model capable of achieving superior forecasting performance. To do this I will try the [Montero-Manso et al.(2019)](https://robjhyndman.com/papers/fforma.pdf) article, titled *"FFORMA: Feature-based Forecast Model Averaging"*. Here, they proposed an automated method for obtaining `weighted forecast combinations` using **time series features**. The approach involved two phases. Firstly, a collection of time series was used to train a meta-model, assigning weights to various possible forecasting methods with the aim of minimizing the average forecasting loss from a weighted forecast combination. The inputs to the meta-model were features extracted from each series. In the second phase, new series were forecasted using a `weighted forecast combination`, where the weights were obtained from the previously `trained meta-model`. Their method outperformed a simple forecast combination and surpassed all of the most popular individual methods in the time series forecasting literature. The approach achieved the second position in the M4 competition.
 
+## Motivation
 
 
+## Synthetic Data and Time Series Dataset
 
 ### Stochastic Differential Equation (SDE) Object
 $$
@@ -62,4 +88,18 @@ The simulations of the stochastic differential equation (SDE) with the specified
 
    This composite plot showcases the density histograms of five datasets generated from the simulations. It offers a visual representation of the distribution of values within each dataset, aiding in the analysis of variability.
 
-These visualizations collectively provide a comprehensive overview of the stochastic dynamics captured by the SDE model. The insights gained from these plots contribute to a better understanding of the system's behavior over time.
+These visualizations collectively provide a comprehensive overview of the stochastic dynamics captured by the SDE model.
+
+## Technical Solution
+
+## Tech Stack
+
+## Exploratory Data Analysis
+
+## Model Experiment and Final Hyperparameters
+
+## Results
+
+## Main Conclusions
+
+## REFERENCES
