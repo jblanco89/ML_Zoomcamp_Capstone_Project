@@ -92,9 +92,11 @@ These visualizations collectively provide a comprehensive overview of the stocha
 
 ## Technical Solution
 
-## Tech Stack
+## Software and Tools Used
 
 ## Exploratory Data Analysis
+
+In the Exploratory data analysis (EDA), we conducted a stationary test using the Dickey-Fuller test, identified seasonality and trends, and examined the short-term (t+1) and long-term (t+10) autocorrelation functions (ACF). Despite the synthetic nature of the dataset created using a Stochastic Differential Equation (SDE) model, the EDA notebook provides valuable insights. To explore the notebook with accompanying annotations, [see here]('XD')   
 
 ## Model Experiment and Final Hyperparameters
 
