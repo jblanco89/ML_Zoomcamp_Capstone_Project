@@ -15,7 +15,7 @@ Cohort 2023-2024
    2. [Simulations Overview](#simulations-overview)
    3. [Simulation Results](#simulation-results)
 4. [Technical Solution](#technical-solution)
-5. [Software and Tools Used](#software-and-tools-used)
+5. [Software Tools and Models Used](#software-tools-and-models-used)
 6. [Exploratory Data Analysis](#exploratory-data-analysis)
 7. [Model Experiment and Final Hyperparameters](#model-experiment-and-final-hyperparameters)
 8. [Results](#results)
@@ -92,39 +92,50 @@ These visualizations collectively provide a comprehensive overview of the stocha
 
 ## Technical Solution
 
-## Software and Tools Used
+## Software Tools and Models Used
+
+#### Time Series Analysis Models (Base Learners):
+
+1. **AutoArima:**
+   - **Description:** Automatic ARIMA model selection for time series forecasting.
+
+2. **ETS (Exponential Smoothing State Space Model):**
+   - **Description:** Framework for forecasting that includes simple exponential smoothing among its components.
+
+3. **Theta Model:**
+   - **Description:** Simple exponential smoothing model with a damping parameter (Theta) for forecasting.
 
 #### Programming Languages:
 
-1. **Matlab R2021a:**
+4. **Matlab R2021a:**
    - **Description:** Used for modeling Stochastic Differential Equations (SDE) and creating synthetic time series datasets.
 
-2. **Python 3.8.18:**
+5. **Python 3.8.18:**
    - **Description:** Main programming language for data analysis, machine learning, and project implementation.
 
 #### Development Environment:
-3. **Anaconda (Miniconda):**
+6. **Anaconda (Miniconda):**
    - **Description:** Python and dependencies distribution.
 
 #### Project Management:
-4. **MLFlow:**
+7. **MLFlow:**
    - **Description:** Used for tracking experiments, packaging code into reproducible runs, and sharing and deploying models, specially tunning hyperparameter.
 
 #### Collaborative Development:
-5. **Google Colab:**
+8. **Google Colab:**
    - **Description:** Cloud-based platform for Python that allows collaborative editing of Jupyter notebooks.
 
 #### Libraries and Frameworks:
-6. **Statsmodel:**
+9. **Statsmodel:**
    - **Description:** Utilized for statistical modeling and hypothesis testing, ETS and Theta models were taken from this library.
 
-7. **pmarima:**
+10. **pmarima:**
    - **Description:** Library for Auto-ARIMA modeling in time series analysis.
 
-8. **scikit-learn:**
+11. **scikit-learn:**
    - **Description:** Employed for various machine learning tasks, including Mean Absolute Percentage Error (MAPE) calculation.
 
-9. **Xgboost:**
+12. **Xgboost:**
    - **Description:** Implemented for building an ensemble machine learning model (meta-learner).
 
 
