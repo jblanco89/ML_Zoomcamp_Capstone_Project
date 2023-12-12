@@ -94,6 +94,42 @@ These visualizations collectively provide a comprehensive overview of the stocha
 
 ## Software and Tools Used
 
+## Technical Solution
+
+### Programming Languages:
+
+1. **Matlab R2021a:**
+   - **Description:** Used for modeling Stochastic Differential Equations (SDE) and creating synthetic time series datasets.
+
+2. **Python 3.8.18:**
+   - **Description:** Main programming language for data analysis, machine learning, and project implementation.
+
+### Development Environment:
+3. **Anaconda (Miniconda):**
+   - **Description:** Python and dependencies distribution.
+
+### Project Management:
+4. **MLFlow:**
+   - **Description:** Used for tracking experiments, packaging code into reproducible runs, and sharing and deploying models, specially tunning hyperparameter.
+
+### Collaborative Development:
+5. **Google Colab:**
+   - **Description:** Cloud-based platform for Python that allows collaborative editing of Jupyter notebooks.
+
+### Libraries and Frameworks:
+6. **Statsmodel:**
+   - **Description:** Utilized for statistical modeling and hypothesis testing, ETS and Theta models were taken from this library.
+
+7. **pmarima:**
+   - **Description:** Library for Auto-ARIMA modeling in time series analysis.
+
+8. **scikit-learn:**
+   - **Description:** Employed for various machine learning tasks, including Mean Absolute Percentage Error (MAPE) calculation.
+
+9. **Xgboost:**
+   - **Description:** Implemented for building an ensemble machine learning model (meta-learner).
+
+
 ## Exploratory Data Analysis
 
 In the Exploratory data analysis (EDA), we conducted a stationary test using the Dickey-Fuller test, identified seasonality and trends, and examined the short-term (t+1) and long-term (t+10) autocorrelation functions (ACF). Despite the synthetic nature of the dataset created using a Stochastic Differential Equation (SDE) model, the EDA notebook provides valuable insights. To explore the notebook with accompanying annotations, [see here]('XD')   
