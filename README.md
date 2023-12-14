@@ -92,6 +92,53 @@ These visualizations collectively provide a comprehensive overview of the stocha
 
 ## Technical Solution
 
+Time series forecasting using FFORMA ensemble method applying the following algorithm:
+
+### OFFLINE PHASE: TRAIN THE LEARNING MODEL
+
+#### Inputs:
+- `{x1, x2, ..., xN}`: N observed time series forming the reference set.
+- `F`: a set of functions for calculating time series features.
+- `M`: a set of forecasting methods in the pool, e.g., naïve, ETS, ARIMA, etc.
+
+#### Output:
+- `FFORMA meta-learner`: A function from the extracted features to a set of M weights, one for each forecasting method.
+
+#### Procedure:
+1. **Prepare the meta-data**
+    - for `n` in `1` to `N`:
+        1. Split `xn` into a training period and test period.
+        2. Calculate the set of features `fn` in `F` over the training period.
+        3. Fit each forecasting method `m` in `M` over the training period and generate forecasts over the test period.
+        4. Calculate forecast losses `Lnm` over the test period.
+
+2. **Train the meta-learner, w**
+    - Train a learning model based on the meta-data and errors, by minimizing:
+
+      $$
+        - \arg \min_w \sum_{n=1} \left[ \sum_{m=1} w(f_n)mL_{nm} \right]
+      $$
+     
+   **where**:
+   
+   $L_{nm}$ = MAPE Error calculated from base learners forecasting
+
+### ONLINE PHASE: FORECAST A NEW TIME SERIES
+
+#### Input:
+- `FFORMA meta-learner` from offline phase.
+
+#### Output:
+- Forecast the new time series `xnew`.
+
+#### Procedure:
+1. for each `xnew`:
+    1. Calculate features `fnew` by applying `F`.
+    2. Use the meta-learner to produce `w(fnew)`, an M-vector of weights.
+    3. Compute the individual forecasts of the M forecasting methods in the pool.
+    4. Combine individual forecasts using `w` to generate final forecasts.
+
+
 ## Software Tools and Models Used
 
 #### Time Series Analysis Models (Base Learners):
