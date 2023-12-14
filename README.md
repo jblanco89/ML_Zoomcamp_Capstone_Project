@@ -115,13 +115,13 @@ Time series forecasting using FFORMA ensemble method applying the following algo
 2. **Train the meta-learner, w**
     - Train a learning model based on the meta-data and errors, by minimizing:
 
-      $$
-        - \arg \min_w \sum_{n=1} \left[ \sum_{m=1} w(f_n)mL_{nm} \right]
-      $$
+      $$\arg \min_w \sum_{n=1} \left[ \sum_{m=1} w(f_n)m L_{nm} \right]$$
      
    **where**:
    
    $L_{nm}$ = MAPE Error calculated from base learners forecasting
+
+   more info about FFORMA Loss function [see here](https://robjhyndman.com/papers/fforma.pdf)
 
 ### ONLINE PHASE: FORECAST A NEW TIME SERIES
 
