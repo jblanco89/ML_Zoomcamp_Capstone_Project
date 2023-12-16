@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/2cda852de41241f696cb6af4bd1d98d2/artifacts
+deleted_time: 1702744031744
+end_time: 1702743736751
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 2cda852de41241f696cb6af4bd1d98d2
+run_name: loud-stoat-191
+run_uuid: 2cda852de41241f696cb6af4bd1d98d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743736647
+status: 3
+tags: []
+user_id: javie

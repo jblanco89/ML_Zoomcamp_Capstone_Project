@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/24f83890543946debca1206e8f54f6c0/artifacts
+deleted_time: 1702744031852
+end_time: 1702743657366
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 24f83890543946debca1206e8f54f6c0
+run_name: thoughtful-shrew-740
+run_uuid: 24f83890543946debca1206e8f54f6c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743657265
+status: 3
+tags: []
+user_id: javie

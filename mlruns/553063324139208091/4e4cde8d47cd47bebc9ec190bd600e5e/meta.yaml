@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4e4cde8d47cd47bebc9ec190bd600e5e/artifacts
+deleted_time: 1702744031982
+end_time: 1702743561245
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4e4cde8d47cd47bebc9ec190bd600e5e
+run_name: omniscient-ram-919
+run_uuid: 4e4cde8d47cd47bebc9ec190bd600e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743561029
+status: 3
+tags: []
+user_id: javie

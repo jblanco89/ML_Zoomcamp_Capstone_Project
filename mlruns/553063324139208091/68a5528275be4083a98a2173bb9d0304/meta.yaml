@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/68a5528275be4083a98a2173bb9d0304/artifacts
+deleted_time: 1702744031593
+end_time: 1702743847243
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 68a5528275be4083a98a2173bb9d0304
+run_name: gifted-bat-655
+run_uuid: 68a5528275be4083a98a2173bb9d0304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743847139
+status: 3
+tags: []
+user_id: javie

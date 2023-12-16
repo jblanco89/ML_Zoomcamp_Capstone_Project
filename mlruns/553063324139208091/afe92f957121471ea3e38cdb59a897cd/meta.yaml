@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/afe92f957121471ea3e38cdb59a897cd/artifacts
+deleted_time: 1702744031605
+end_time: 1702743831521
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: afe92f957121471ea3e38cdb59a897cd
+run_name: treasured-toad-130
+run_uuid: afe92f957121471ea3e38cdb59a897cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743831421
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/1b7401f7f9cc40599373e659a69bbdd3/artifacts
+end_time: 1702744104449
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 1b7401f7f9cc40599373e659a69bbdd3
+run_name: debonair-dog-283
+run_uuid: 1b7401f7f9cc40599373e659a69bbdd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744104276
+status: 3
+tags: []
+user_id: javie

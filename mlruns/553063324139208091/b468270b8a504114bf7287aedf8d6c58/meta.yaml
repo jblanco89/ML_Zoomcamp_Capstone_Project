@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b468270b8a504114bf7287aedf8d6c58/artifacts
+end_time: 1702744225873
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: b468270b8a504114bf7287aedf8d6c58
+run_name: invincible-trout-889
+run_uuid: b468270b8a504114bf7287aedf8d6c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744225765
+status: 3
+tags: []
+user_id: javie

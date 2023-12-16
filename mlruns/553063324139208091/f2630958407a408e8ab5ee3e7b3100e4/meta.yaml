@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f2630958407a408e8ab5ee3e7b3100e4/artifacts
+deleted_time: 1702744031857
+end_time: 1702743653010
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: f2630958407a408e8ab5ee3e7b3100e4
+run_name: luminous-rat-144
+run_uuid: f2630958407a408e8ab5ee3e7b3100e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743652906
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d2cd62fdde5448059d9ca6a376f9441e/artifacts
+deleted_time: 1702744031720
+end_time: 1702743751897
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: d2cd62fdde5448059d9ca6a376f9441e
+run_name: defiant-bear-132
+run_uuid: d2cd62fdde5448059d9ca6a376f9441e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743751800
+status: 3
+tags: []
+user_id: javie

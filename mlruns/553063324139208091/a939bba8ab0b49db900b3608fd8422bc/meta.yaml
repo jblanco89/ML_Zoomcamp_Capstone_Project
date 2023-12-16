@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/a939bba8ab0b49db900b3608fd8422bc/artifacts
+deleted_time: 1702744031797
+end_time: 1702743696963
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: a939bba8ab0b49db900b3608fd8422bc
+run_name: masked-eel-103
+run_uuid: a939bba8ab0b49db900b3608fd8422bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743696860
+status: 3
+tags: []
+user_id: javie

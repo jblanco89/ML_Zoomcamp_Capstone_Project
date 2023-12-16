@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/83418a6380b340639f6679669ca893da/artifacts
+end_time: 1702744277699
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 83418a6380b340639f6679669ca893da
+run_name: auspicious-flea-385
+run_uuid: 83418a6380b340639f6679669ca893da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744277585
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d934f764b3df43119182b4256092088b/artifacts
+end_time: 1702744257056
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: d934f764b3df43119182b4256092088b
+run_name: monumental-shrew-556
+run_uuid: d934f764b3df43119182b4256092088b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744256943
+status: 3
+tags: []
+user_id: javie

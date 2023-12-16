@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/3abb3e95ae3d4513bb4229d307b3194d/artifacts
+deleted_time: 1702744031750
+end_time: 1702743732373
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 3abb3e95ae3d4513bb4229d307b3194d
+run_name: handsome-quail-256
+run_uuid: 3abb3e95ae3d4513bb4229d307b3194d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743732267
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/34421c9f7c844778b2ceb0a3686c0857/artifacts
+deleted_time: 1702744031776
+end_time: 1702743712383
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 34421c9f7c844778b2ceb0a3686c0857
+run_name: worried-whale-258
+run_uuid: 34421c9f7c844778b2ceb0a3686c0857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743712277
+status: 3
+tags: []
+user_id: javie

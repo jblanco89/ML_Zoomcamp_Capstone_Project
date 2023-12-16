@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/480a57dfdd054662a488fc71ada816c1/artifacts
+end_time: 1702744327720
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 480a57dfdd054662a488fc71ada816c1
+run_name: unequaled-conch-950
+run_uuid: 480a57dfdd054662a488fc71ada816c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744327601
+status: 3
+tags: []
+user_id: javie

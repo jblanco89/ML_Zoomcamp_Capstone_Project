@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4f277cb25ebd410fa64bc047e46846d5/artifacts
+deleted_time: 1702744031949
+end_time: 1702743582981
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4f277cb25ebd410fa64bc047e46846d5
+run_name: charming-loon-250
+run_uuid: 4f277cb25ebd410fa64bc047e46846d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743582832
+status: 3
+tags: []
+user_id: javie

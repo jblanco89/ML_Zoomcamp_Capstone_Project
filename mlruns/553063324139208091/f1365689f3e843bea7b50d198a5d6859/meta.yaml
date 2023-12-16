@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f1365689f3e843bea7b50d198a5d6859/artifacts
+end_time: 1702744563767
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f1365689f3e843bea7b50d198a5d6859
+run_name: placid-carp-544
+run_uuid: f1365689f3e843bea7b50d198a5d6859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744563641
+status: 3
+tags: []
+user_id: javie

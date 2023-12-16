@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f9594e697ee3419ea3eb800423430e60/artifacts
+deleted_time: 1702744031972
+end_time: 1702743567715
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: f9594e697ee3419ea3eb800423430e60
+run_name: rare-frog-616
+run_uuid: f9594e697ee3419ea3eb800423430e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743567609
+status: 3
+tags: []
+user_id: javie

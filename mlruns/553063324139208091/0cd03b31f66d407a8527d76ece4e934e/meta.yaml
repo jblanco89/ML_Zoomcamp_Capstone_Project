@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/0cd03b31f66d407a8527d76ece4e934e/artifacts
+deleted_time: 1702744031787
+end_time: 1702743705784
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 0cd03b31f66d407a8527d76ece4e934e
+run_name: rambunctious-doe-110
+run_uuid: 0cd03b31f66d407a8527d76ece4e934e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743705669
+status: 3
+tags: []
+user_id: javie

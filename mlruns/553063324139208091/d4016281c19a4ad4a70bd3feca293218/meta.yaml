@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d4016281c19a4ad4a70bd3feca293218/artifacts
+end_time: 1702744309494
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: d4016281c19a4ad4a70bd3feca293218
+run_name: stylish-fish-325
+run_uuid: d4016281c19a4ad4a70bd3feca293218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744309378
+status: 3
+tags: []
+user_id: javie

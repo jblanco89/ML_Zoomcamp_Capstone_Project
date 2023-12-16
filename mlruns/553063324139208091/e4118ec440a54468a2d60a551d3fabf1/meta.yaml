@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/e4118ec440a54468a2d60a551d3fabf1/artifacts
+end_time: 1702744533168
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: e4118ec440a54468a2d60a551d3fabf1
+run_name: fun-worm-596
+run_uuid: e4118ec440a54468a2d60a551d3fabf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744533045
+status: 3
+tags: []
+user_id: javie

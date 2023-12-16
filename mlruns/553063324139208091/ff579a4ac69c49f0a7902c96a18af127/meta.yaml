@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ff579a4ac69c49f0a7902c96a18af127/artifacts
+end_time: 1702744074495
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: ff579a4ac69c49f0a7902c96a18af127
+run_name: sneaky-lynx-949
+run_uuid: ff579a4ac69c49f0a7902c96a18af127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744074403
+status: 3
+tags: []
+user_id: javie

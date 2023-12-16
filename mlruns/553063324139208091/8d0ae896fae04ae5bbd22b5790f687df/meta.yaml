@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8d0ae896fae04ae5bbd22b5790f687df/artifacts
+deleted_time: 1702744031584
+end_time: 1702743849458
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 8d0ae896fae04ae5bbd22b5790f687df
+run_name: blushing-tern-7
+run_uuid: 8d0ae896fae04ae5bbd22b5790f687df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743849356
+status: 3
+tags: []
+user_id: javie

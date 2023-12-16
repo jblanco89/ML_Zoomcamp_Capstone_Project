@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/03f55719c96241d1ad773ac7762488ec/artifacts
+end_time: 1702744293727
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 03f55719c96241d1ad773ac7762488ec
+run_name: bright-steed-826
+run_uuid: 03f55719c96241d1ad773ac7762488ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744293610
+status: 3
+tags: []
+user_id: javie

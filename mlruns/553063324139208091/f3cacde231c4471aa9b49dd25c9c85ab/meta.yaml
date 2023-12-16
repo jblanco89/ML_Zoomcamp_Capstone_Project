@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f3cacde231c4471aa9b49dd25c9c85ab/artifacts
+end_time: 1702744499290
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f3cacde231c4471aa9b49dd25c9c85ab
+run_name: judicious-deer-892
+run_uuid: f3cacde231c4471aa9b49dd25c9c85ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744499165
+status: 3
+tags: []
+user_id: javie

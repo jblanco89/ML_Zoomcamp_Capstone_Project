@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4a8343c3e70f423eb2a800e20bb5f1e6/artifacts
+deleted_time: 1702744031594
+end_time: 1702743845031
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4a8343c3e70f423eb2a800e20bb5f1e6
+run_name: smiling-colt-65
+run_uuid: 4a8343c3e70f423eb2a800e20bb5f1e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743844915
+status: 3
+tags: []
+user_id: javie

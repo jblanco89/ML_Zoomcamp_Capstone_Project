@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6c494848e1cf4911b7496c68ae4c3781/artifacts
+deleted_time: 1702744031823
+end_time: 1702743677090
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 6c494848e1cf4911b7496c68ae4c3781
+run_name: caring-ape-468
+run_uuid: 6c494848e1cf4911b7496c68ae4c3781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743676988
+status: 3
+tags: []
+user_id: javie

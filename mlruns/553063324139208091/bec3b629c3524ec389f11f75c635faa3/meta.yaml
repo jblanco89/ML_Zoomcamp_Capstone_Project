@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/bec3b629c3524ec389f11f75c635faa3/artifacts
+deleted_time: 1702744031902
+end_time: 1702743620229
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: bec3b629c3524ec389f11f75c635faa3
+run_name: amazing-crow-746
+run_uuid: bec3b629c3524ec389f11f75c635faa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743620120
+status: 3
+tags: []
+user_id: javie

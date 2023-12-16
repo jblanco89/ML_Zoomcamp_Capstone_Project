@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ca264b2ae09440569f5b8c1c27b672ff/artifacts
+deleted_time: 1702744031702
+end_time: 1702743762734
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: ca264b2ae09440569f5b8c1c27b672ff
+run_name: popular-roo-924
+run_uuid: ca264b2ae09440569f5b8c1c27b672ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743762635
+status: 3
+tags: []
+user_id: javie

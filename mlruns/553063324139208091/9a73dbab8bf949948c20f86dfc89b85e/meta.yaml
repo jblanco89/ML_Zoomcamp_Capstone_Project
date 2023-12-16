@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9a73dbab8bf949948c20f86dfc89b85e/artifacts
+end_time: 1702744144421
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 9a73dbab8bf949948c20f86dfc89b85e
+run_name: masked-koi-323
+run_uuid: 9a73dbab8bf949948c20f86dfc89b85e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744144319
+status: 3
+tags: []
+user_id: javie

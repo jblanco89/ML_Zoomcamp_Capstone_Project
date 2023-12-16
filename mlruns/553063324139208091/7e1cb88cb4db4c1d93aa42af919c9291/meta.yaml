@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7e1cb88cb4db4c1d93aa42af919c9291/artifacts
+deleted_time: 1702744031855
+end_time: 1702743655192
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 7e1cb88cb4db4c1d93aa42af919c9291
+run_name: enthused-gnu-804
+run_uuid: 7e1cb88cb4db4c1d93aa42af919c9291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743655092
+status: 3
+tags: []
+user_id: javie

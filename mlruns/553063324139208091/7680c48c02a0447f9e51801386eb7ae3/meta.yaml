@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7680c48c02a0447f9e51801386eb7ae3/artifacts
+deleted_time: 1702744031836
+end_time: 1702743668343
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 7680c48c02a0447f9e51801386eb7ae3
+run_name: nosy-perch-11
+run_uuid: 7680c48c02a0447f9e51801386eb7ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743668222
+status: 3
+tags: []
+user_id: javie

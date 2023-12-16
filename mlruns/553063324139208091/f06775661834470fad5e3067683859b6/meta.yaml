@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f06775661834470fad5e3067683859b6/artifacts
+end_time: 1702744614664
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f06775661834470fad5e3067683859b6
+run_name: kindly-crane-775
+run_uuid: f06775661834470fad5e3067683859b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744614544
+status: 3
+tags: []
+user_id: javie

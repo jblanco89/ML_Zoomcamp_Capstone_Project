@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/3093d58c1d5d49d098fcc93441374e1d/artifacts
+deleted_time: 1702744031701
+end_time: 1702743764907
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 3093d58c1d5d49d098fcc93441374e1d
+run_name: magnificent-stag-257
+run_uuid: 3093d58c1d5d49d098fcc93441374e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743764808
+status: 3
+tags: []
+user_id: javie

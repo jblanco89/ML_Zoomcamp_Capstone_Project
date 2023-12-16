@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d41e0ebce50349079500de6bf6a546fb/artifacts
+deleted_time: 1702744031869
+end_time: 1702743644251
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: d41e0ebce50349079500de6bf6a546fb
+run_name: puzzled-smelt-14
+run_uuid: d41e0ebce50349079500de6bf6a546fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743644151
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/18c1067a14c347c28379cdbb24eaca8e/artifacts
+end_time: 1702744190589
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 18c1067a14c347c28379cdbb24eaca8e
+run_name: gregarious-shark-373
+run_uuid: 18c1067a14c347c28379cdbb24eaca8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744190472
+status: 3
+tags: []
+user_id: javie

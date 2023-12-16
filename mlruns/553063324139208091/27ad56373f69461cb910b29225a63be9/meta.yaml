@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/27ad56373f69461cb910b29225a63be9/artifacts
+deleted_time: 1702744031994
+end_time: 1702743437508
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 27ad56373f69461cb910b29225a63be9
+run_name: agreeable-mink-450
+run_uuid: 27ad56373f69461cb910b29225a63be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743437460
+status: 3
+tags: []
+user_id: javie

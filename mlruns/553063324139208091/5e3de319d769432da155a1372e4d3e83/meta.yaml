@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/5e3de319d769432da155a1372e4d3e83/artifacts
+end_time: 1702744595345
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 5e3de319d769432da155a1372e4d3e83
+run_name: secretive-grouse-94
+run_uuid: 5e3de319d769432da155a1372e4d3e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744595215
+status: 3
+tags: []
+user_id: javie

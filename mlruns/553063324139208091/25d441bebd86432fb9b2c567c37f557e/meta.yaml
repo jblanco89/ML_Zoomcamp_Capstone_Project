@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/25d441bebd86432fb9b2c567c37f557e/artifacts
+end_time: 1702744157577
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 25d441bebd86432fb9b2c567c37f557e
+run_name: tasteful-shark-642
+run_uuid: 25d441bebd86432fb9b2c567c37f557e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744157468
+status: 3
+tags: []
+user_id: javie

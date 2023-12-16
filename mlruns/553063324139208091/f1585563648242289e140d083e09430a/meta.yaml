@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f1585563648242289e140d083e09430a/artifacts
+end_time: 1702744478508
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f1585563648242289e140d083e09430a
+run_name: zealous-fly-218
+run_uuid: f1585563648242289e140d083e09430a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744478391
+status: 3
+tags: []
+user_id: javie

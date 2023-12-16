@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/e8849ca983204af8bcdb4dc390ea5665/artifacts
+deleted_time: 1702744031924
+end_time: 1702743602740
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: e8849ca983204af8bcdb4dc390ea5665
+run_name: suave-kite-295
+run_uuid: e8849ca983204af8bcdb4dc390ea5665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743602638
+status: 3
+tags: []
+user_id: javie

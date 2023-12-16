@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8ec37537691d48cda786073aa606f564/artifacts
+deleted_time: 1702744031738
+end_time: 1702743741080
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 8ec37537691d48cda786073aa606f564
+run_name: luminous-sponge-121
+run_uuid: 8ec37537691d48cda786073aa606f564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743740963
+status: 3
+tags: []
+user_id: javie

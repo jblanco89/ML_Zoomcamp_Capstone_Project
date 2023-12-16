@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/1faae04178624902ac878950c440d7f2/artifacts
+deleted_time: 1702744031775
+end_time: 1702743714647
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 1faae04178624902ac878950c440d7f2
+run_name: grandiose-fox-410
+run_uuid: 1faae04178624902ac878950c440d7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743714468
+status: 3
+tags: []
+user_id: javie

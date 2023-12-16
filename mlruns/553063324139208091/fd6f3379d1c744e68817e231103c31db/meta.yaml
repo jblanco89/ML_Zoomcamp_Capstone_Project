@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/fd6f3379d1c744e68817e231103c31db/artifacts
+end_time: 1702744600145
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: fd6f3379d1c744e68817e231103c31db
+run_name: amazing-mole-447
+run_uuid: fd6f3379d1c744e68817e231103c31db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744600034
+status: 3
+tags: []
+user_id: javie

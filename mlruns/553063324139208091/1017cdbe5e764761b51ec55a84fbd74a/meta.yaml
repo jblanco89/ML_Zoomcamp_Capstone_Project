@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/1017cdbe5e764761b51ec55a84fbd74a/artifacts
+end_time: 1702744330011
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 1017cdbe5e764761b51ec55a84fbd74a
+run_name: traveling-hawk-709
+run_uuid: 1017cdbe5e764761b51ec55a84fbd74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744329897
+status: 3
+tags: []
+user_id: javie

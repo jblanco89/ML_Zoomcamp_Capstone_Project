@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/3a837dd546e34b05b7f94c280192fcec/artifacts
+deleted_time: 1702744031863
+end_time: 1702743648637
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 3a837dd546e34b05b7f94c280192fcec
+run_name: clumsy-mouse-758
+run_uuid: 3a837dd546e34b05b7f94c280192fcec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743648518
+status: 3
+tags: []
+user_id: javie

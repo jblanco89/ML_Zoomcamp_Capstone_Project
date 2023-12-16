@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8caab5a102d4422284412f5276b083d4/artifacts
+end_time: 1702744583197
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 8caab5a102d4422284412f5276b083d4
+run_name: righteous-smelt-826
+run_uuid: 8caab5a102d4422284412f5276b083d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744583026
+status: 3
+tags: []
+user_id: javie

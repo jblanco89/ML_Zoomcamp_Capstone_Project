@@ -188,11 +188,53 @@ Time series forecasting using FFORMA ensemble method applying the following algo
 
 ## Exploratory Data Analysis
 
-In the Exploratory data analysis (EDA), we conducted a stationary test using the Dickey-Fuller test, identified seasonality and trends, and examined the short-term (t+1) and long-term (t+10) autocorrelation functions (ACF). Despite the synthetic nature of the dataset created using a Stochastic Differential Equation (SDE) model, the EDA notebook provides valuable insights. To explore the notebook with accompanying annotations, [see here]('XD')   
+In the Exploratory data analysis (EDA), we conducted a stationary test using the Dickey-Fuller test, identified seasonality and trends, and examined the short-term (t+1) and long-term (t+10) autocorrelation functions (ACF). Despite the synthetic nature of the dataset created using a Stochastic Differential Equation (SDE) model, the EDA notebook provides valuable insights. To explore the notebook with accompanying annotations, [see here]('EDA/EDA_ML_Zoomcamp_Capstone.ipynb')   
 
 ## Model Experiment and Final Hyperparameters
 
+After 246 runs in `MLFlow`, best xgboost hyperparameter were estimated:
+
+![ml_flow](img/mlflow.png)
+
+```python
+param_grid = {
+    'n_estimators': 10,
+    'max_depth': 10,
+    'eta': 0.1,
+    'subsample':0.90,
+    'colsample_bytree': 0.77
+        }
+```
+
+Minimum Absolute error calculated was `0.717 %`
+
 ## Results
+
+
+![forecasting](img/forecasting/plot_store_2.png)
+
+
+![forecasting](img/forecasting/plot_store_3.png)
+
+
+
+![forecasting](img/forecasting/plot_store_6.png)
+
+
+|    | Store     | Arima                  | ETS                   | Theta                  | Metalearner            |
+|----|-----------|------------------------|-----------------------|------------------------|------------------------|
+| 0  | store_1   | 0.001915991409945536   | 0.0025048996443828046 | 0.002270198294381479   | 0.002089571618631115   |
+| 1  | store_2   | 0.0010827737729628849  | 0.0015280932400380375 | 0.00141896579630666    | 0.0012602505508671946  |
+| 2  | store_3   | 0.0014680579312405307  | 0.0006195396614241023 | 0.0006625883332679433  | 0.0009426985532564415  |
+| 3  | store_4   | 0.0007769552651805258  | 0.0013495201674364283 | 0.0010642672805945283  | 0.0009513189785721053  |
+| 4  | store_5   | 0.0005745028193149504  | 0.0006872694724535919 | 0.0007080029283008716  | 0.000634309118598924   |
+| 5  | store_6   | 0.0010627675864662261  | 0.0009859280438325884 | 0.0010209891008322244  | 0.0009949580578193654  |
+| 6  | store_7   | 0.0009970341583410778  | 0.0012454924220853603 | 0.0010616885363007918  | 0.0010335418227165924  |
+| 7  | store_8   | 0.0015069182063406949  | 0.0011907189331784335 | 0.0012000684587356143  | 0.0012970879456044545  |
+| 8  | store_9   | 0.0019873614626923926  | 0.0026685627427830375 | 0.0024712677915031973  | 0.0023120951143911182  |
+| 9  | store_10  | 0.0010998833930201599  | 0.0011973829119760523 | 0.0010476254507542824  | 0.0010376965046025297  |
+| 10 | store_11  | 0.001251684059517305   | 0.0019811946140714945 | 0.0018130640014861466  | 0.0015058627049166675  |
+
 
 ## Main Conclusions
 

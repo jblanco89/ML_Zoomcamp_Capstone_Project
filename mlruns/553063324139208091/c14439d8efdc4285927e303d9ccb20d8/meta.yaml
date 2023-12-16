@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c14439d8efdc4285927e303d9ccb20d8/artifacts
+end_time: 1702744454213
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c14439d8efdc4285927e303d9ccb20d8
+run_name: upset-zebra-368
+run_uuid: c14439d8efdc4285927e303d9ccb20d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744454085
+status: 3
+tags: []
+user_id: javie

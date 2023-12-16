@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6cbeb19bb3d646fabbe485656028de9e/artifacts
+deleted_time: 1702744031947
+end_time: 1702743587394
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 6cbeb19bb3d646fabbe485656028de9e
+run_name: merciful-swan-839
+run_uuid: 6cbeb19bb3d646fabbe485656028de9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743587294
+status: 3
+tags: []
+user_id: javie

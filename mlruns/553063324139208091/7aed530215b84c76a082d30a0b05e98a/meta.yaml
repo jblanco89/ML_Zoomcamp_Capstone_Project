@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7aed530215b84c76a082d30a0b05e98a/artifacts
+deleted_time: 1702744031780
+end_time: 1702743710198
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 7aed530215b84c76a082d30a0b05e98a
+run_name: judicious-sheep-658
+run_uuid: 7aed530215b84c76a082d30a0b05e98a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743710078
+status: 3
+tags: []
+user_id: javie

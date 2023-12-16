@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/fc61a4c375be4650b9d02e5b5fc3a346/artifacts
+end_time: 1702744382535
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: fc61a4c375be4650b9d02e5b5fc3a346
+run_name: languid-perch-772
+run_uuid: fc61a4c375be4650b9d02e5b5fc3a346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744382417
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c594670009604652a618639785c72d9a/artifacts
+end_time: 1702744396371
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c594670009604652a618639785c72d9a
+run_name: smiling-skink-488
+run_uuid: c594670009604652a618639785c72d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744396253
+status: 3
+tags: []
+user_id: javie

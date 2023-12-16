@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/5963e4f6ec84448f8b979fe6d16053b0/artifacts
+end_time: 1702744451817
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 5963e4f6ec84448f8b979fe6d16053b0
+run_name: rogue-cod-775
+run_uuid: 5963e4f6ec84448f8b979fe6d16053b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744451702
+status: 3
+tags: []
+user_id: javie

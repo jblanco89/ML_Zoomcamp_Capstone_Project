@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/336f1d587ce641c0b5cb637baa46893e/artifacts
+end_time: 1702744602608
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 336f1d587ce641c0b5cb637baa46893e
+run_name: fun-cod-179
+run_uuid: 336f1d587ce641c0b5cb637baa46893e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744602465
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/eb41245a76e24833a16a4d35bca9526a/artifacts
+deleted_time: 1702744031976
+end_time: 1702743565539
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: eb41245a76e24833a16a4d35bca9526a
+run_name: kindly-moose-742
+run_uuid: eb41245a76e24833a16a4d35bca9526a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743565445
+status: 3
+tags: []
+user_id: javie

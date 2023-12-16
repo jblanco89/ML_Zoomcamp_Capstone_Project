@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/bf40cf93acc7435bb9ac948afe80610e/artifacts
+end_time: 1702744074744
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: bf40cf93acc7435bb9ac948afe80610e
+run_name: invincible-hog-75
+run_uuid: bf40cf93acc7435bb9ac948afe80610e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744074507
+status: 3
+tags: []
+user_id: javie

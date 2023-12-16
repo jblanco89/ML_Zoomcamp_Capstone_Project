@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ae41882b98a445f3a398eb986e200bf1/artifacts
+end_time: 1702744350659
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: ae41882b98a445f3a398eb986e200bf1
+run_name: welcoming-grouse-928
+run_uuid: ae41882b98a445f3a398eb986e200bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744350544
+status: 3
+tags: []
+user_id: javie

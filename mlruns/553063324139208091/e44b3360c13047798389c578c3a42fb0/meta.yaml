@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/e44b3360c13047798389c578c3a42fb0/artifacts
+deleted_time: 1702744031730
+end_time: 1702743747563
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: e44b3360c13047798389c578c3a42fb0
+run_name: fun-bee-419
+run_uuid: e44b3360c13047798389c578c3a42fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743747463
+status: 3
+tags: []
+user_id: javie

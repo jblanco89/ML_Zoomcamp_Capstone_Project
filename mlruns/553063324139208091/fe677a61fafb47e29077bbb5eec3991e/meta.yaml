@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/fe677a61fafb47e29077bbb5eec3991e/artifacts
+end_time: 1702744332314
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: fe677a61fafb47e29077bbb5eec3991e
+run_name: mysterious-skunk-371
+run_uuid: fe677a61fafb47e29077bbb5eec3991e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744332188
+status: 3
+tags: []
+user_id: javie

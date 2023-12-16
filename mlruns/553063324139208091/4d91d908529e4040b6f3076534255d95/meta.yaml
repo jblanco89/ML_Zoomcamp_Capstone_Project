@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4d91d908529e4040b6f3076534255d95/artifacts
+deleted_time: 1702744031706
+end_time: 1702743760570
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4d91d908529e4040b6f3076534255d95
+run_name: clean-bass-596
+run_uuid: 4d91d908529e4040b6f3076534255d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743760472
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/da4130bb1c1d424dbdc8ae5b031486bf/artifacts
+deleted_time: 1702744031935
+end_time: 1702743596139
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: da4130bb1c1d424dbdc8ae5b031486bf
+run_name: colorful-bee-151
+run_uuid: da4130bb1c1d424dbdc8ae5b031486bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743596038
+status: 3
+tags: []
+user_id: javie

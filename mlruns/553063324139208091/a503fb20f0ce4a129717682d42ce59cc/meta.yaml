@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/a503fb20f0ce4a129717682d42ce59cc/artifacts
+end_time: 1702744377961
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: a503fb20f0ce4a129717682d42ce59cc
+run_name: righteous-squid-976
+run_uuid: a503fb20f0ce4a129717682d42ce59cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744377839
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8f9cea35f8bb4f7d8595aa3b8921d82a/artifacts
+deleted_time: 1702744031963
+end_time: 1702743572072
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 8f9cea35f8bb4f7d8595aa3b8921d82a
+run_name: luxuriant-mink-614
+run_uuid: 8f9cea35f8bb4f7d8595aa3b8921d82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743571964
+status: 3
+tags: []
+user_id: javie

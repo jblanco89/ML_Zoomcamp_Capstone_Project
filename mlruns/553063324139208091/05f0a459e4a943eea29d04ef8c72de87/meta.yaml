@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/05f0a459e4a943eea29d04ef8c72de87/artifacts
+end_time: 1702744223682
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 05f0a459e4a943eea29d04ef8c72de87
+run_name: upset-bear-778
+run_uuid: 05f0a459e4a943eea29d04ef8c72de87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744223539
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/456e4741ecfb42ee9e222043a6f89b88/artifacts
+deleted_time: 1702744031947
+end_time: 1702743585210
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 456e4741ecfb42ee9e222043a6f89b88
+run_name: brawny-crane-242
+run_uuid: 456e4741ecfb42ee9e222043a6f89b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743585074
+status: 3
+tags: []
+user_id: javie

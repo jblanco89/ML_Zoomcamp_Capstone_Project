@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/06a13691315a4b1385ff6ba4469fc439/artifacts
+deleted_time: 1702744031983
+end_time: 1702743561019
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 06a13691315a4b1385ff6ba4469fc439
+run_name: intelligent-roo-890
+run_uuid: 06a13691315a4b1385ff6ba4469fc439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743560973
+status: 3
+tags: []
+user_id: javie

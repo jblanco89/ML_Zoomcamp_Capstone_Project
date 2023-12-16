@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/616715d1f87e49cb861bc5b8826c346a/artifacts
+end_time: 1702744126623
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 616715d1f87e49cb861bc5b8826c346a
+run_name: selective-lamb-873
+run_uuid: 616715d1f87e49cb861bc5b8826c346a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744126510
+status: 3
+tags: []
+user_id: javie

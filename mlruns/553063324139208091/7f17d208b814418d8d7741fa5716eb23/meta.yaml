@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7f17d208b814418d8d7741fa5716eb23/artifacts
+deleted_time: 1702744031639
+end_time: 1702743806752
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 7f17d208b814418d8d7741fa5716eb23
+run_name: bold-cub-764
+run_uuid: 7f17d208b814418d8d7741fa5716eb23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743806653
+status: 3
+tags: []
+user_id: javie

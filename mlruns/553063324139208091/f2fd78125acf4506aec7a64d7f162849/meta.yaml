@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f2fd78125acf4506aec7a64d7f162849/artifacts
+end_time: 1702744481063
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f2fd78125acf4506aec7a64d7f162849
+run_name: mercurial-perch-320
+run_uuid: f2fd78125acf4506aec7a64d7f162849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744480890
+status: 3
+tags: []
+user_id: javie

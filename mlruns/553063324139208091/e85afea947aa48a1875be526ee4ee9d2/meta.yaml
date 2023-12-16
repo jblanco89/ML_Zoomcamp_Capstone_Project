@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/e85afea947aa48a1875be526ee4ee9d2/artifacts
+deleted_time: 1702744031866
+end_time: 1702743646438
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: e85afea947aa48a1875be526ee4ee9d2
+run_name: marvelous-skunk-228
+run_uuid: e85afea947aa48a1875be526ee4ee9d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743646332
+status: 3
+tags: []
+user_id: javie

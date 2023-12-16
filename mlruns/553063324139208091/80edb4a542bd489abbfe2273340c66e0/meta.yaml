@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/80edb4a542bd489abbfe2273340c66e0/artifacts
+end_time: 1702744545483
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 80edb4a542bd489abbfe2273340c66e0
+run_name: skillful-stork-613
+run_uuid: 80edb4a542bd489abbfe2273340c66e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744545354
+status: 3
+tags: []
+user_id: javie

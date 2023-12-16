@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8049c564d55743be885df8bfcc5c3beb/artifacts
+end_time: 1702744086019
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 8049c564d55743be885df8bfcc5c3beb
+run_name: incongruous-fly-839
+run_uuid: 8049c564d55743be885df8bfcc5c3beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744085903
+status: 3
+tags: []
+user_id: javie

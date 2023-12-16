@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f69b3eb0707242b680fe4feada2fe15c/artifacts
+end_time: 1702744552411
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f69b3eb0707242b680fe4feada2fe15c
+run_name: trusting-hawk-915
+run_uuid: f69b3eb0707242b680fe4feada2fe15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744552259
+status: 3
+tags: []
+user_id: javie

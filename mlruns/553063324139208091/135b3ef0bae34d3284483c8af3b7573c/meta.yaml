@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/135b3ef0bae34d3284483c8af3b7573c/artifacts
+end_time: 1702744405655
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 135b3ef0bae34d3284483c8af3b7573c
+run_name: persistent-shoat-198
+run_uuid: 135b3ef0bae34d3284483c8af3b7573c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744405432
+status: 3
+tags: []
+user_id: javie

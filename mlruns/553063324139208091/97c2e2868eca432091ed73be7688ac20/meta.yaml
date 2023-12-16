@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/97c2e2868eca432091ed73be7688ac20/artifacts
+end_time: 1702744146594
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 97c2e2868eca432091ed73be7688ac20
+run_name: peaceful-cod-478
+run_uuid: 97c2e2868eca432091ed73be7688ac20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744146488
+status: 3
+tags: []
+user_id: javie

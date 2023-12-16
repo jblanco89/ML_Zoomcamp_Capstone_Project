@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f02e6de88c1e41ecb73bdb64249540da/artifacts
+end_time: 1702744295975
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f02e6de88c1e41ecb73bdb64249540da
+run_name: nervous-worm-486
+run_uuid: f02e6de88c1e41ecb73bdb64249540da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744295860
+status: 3
+tags: []
+user_id: javie

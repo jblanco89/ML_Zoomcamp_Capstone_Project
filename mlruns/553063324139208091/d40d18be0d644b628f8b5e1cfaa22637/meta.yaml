@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d40d18be0d644b628f8b5e1cfaa22637/artifacts
+deleted_time: 1702744031595
+end_time: 1702743840560
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: d40d18be0d644b628f8b5e1cfaa22637
+run_name: beautiful-stoat-686
+run_uuid: d40d18be0d644b628f8b5e1cfaa22637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743840424
+status: 3
+tags: []
+user_id: javie

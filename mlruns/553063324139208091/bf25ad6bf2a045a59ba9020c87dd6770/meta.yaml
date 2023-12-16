@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/bf25ad6bf2a045a59ba9020c87dd6770/artifacts
+end_time: 1702744535661
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: bf25ad6bf2a045a59ba9020c87dd6770
+run_name: righteous-whale-689
+run_uuid: bf25ad6bf2a045a59ba9020c87dd6770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744535520
+status: 3
+tags: []
+user_id: javie

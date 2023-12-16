@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/27dfb006c5f349ecb3501f5f89e6f7a0/artifacts
+end_time: 1702744580617
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 27dfb006c5f349ecb3501f5f89e6f7a0
+run_name: learned-carp-460
+run_uuid: 27dfb006c5f349ecb3501f5f89e6f7a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744580506
+status: 3
+tags: []
+user_id: javie

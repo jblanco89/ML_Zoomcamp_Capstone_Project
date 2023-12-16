@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/1c1063806219490abc5a41c686a00ccc/artifacts
+deleted_time: 1702744031606
+end_time: 1702743836044
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 1c1063806219490abc5a41c686a00ccc
+run_name: glamorous-mink-548
+run_uuid: 1c1063806219490abc5a41c686a00ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743835943
+status: 3
+tags: []
+user_id: javie

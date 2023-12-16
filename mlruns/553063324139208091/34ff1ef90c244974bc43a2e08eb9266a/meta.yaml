@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/34ff1ef90c244974bc43a2e08eb9266a/artifacts
+end_time: 1702744245813
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 34ff1ef90c244974bc43a2e08eb9266a
+run_name: skittish-boar-338
+run_uuid: 34ff1ef90c244974bc43a2e08eb9266a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744245690
+status: 3
+tags: []
+user_id: javie

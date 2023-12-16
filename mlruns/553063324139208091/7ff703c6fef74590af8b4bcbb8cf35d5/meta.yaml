@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7ff703c6fef74590af8b4bcbb8cf35d5/artifacts
+end_time: 1702744131267
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 7ff703c6fef74590af8b4bcbb8cf35d5
+run_name: abrasive-seal-902
+run_uuid: 7ff703c6fef74590af8b4bcbb8cf35d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744131115
+status: 3
+tags: []
+user_id: javie

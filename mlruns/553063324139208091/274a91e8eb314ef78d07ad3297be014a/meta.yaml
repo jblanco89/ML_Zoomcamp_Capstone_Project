@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/274a91e8eb314ef78d07ad3297be014a/artifacts
+deleted_time: 1702744031615
+end_time: 1702743829264
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 274a91e8eb314ef78d07ad3297be014a
+run_name: worried-carp-228
+run_uuid: 274a91e8eb314ef78d07ad3297be014a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743829167
+status: 3
+tags: []
+user_id: javie

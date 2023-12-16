@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/bb99929ea5ab416c8916a3db2a12379b/artifacts
+end_time: 1702744607561
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: bb99929ea5ab416c8916a3db2a12379b
+run_name: illustrious-toad-193
+run_uuid: bb99929ea5ab416c8916a3db2a12379b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744607428
+status: 3
+tags: []
+user_id: javie

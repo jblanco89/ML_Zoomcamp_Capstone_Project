@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/a9848e818d354ff9a751367990f408f6/artifacts
+end_time: 1702744336910
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: a9848e818d354ff9a751367990f408f6
+run_name: aged-cub-269
+run_uuid: a9848e818d354ff9a751367990f408f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744336793
+status: 3
+tags: []
+user_id: javie

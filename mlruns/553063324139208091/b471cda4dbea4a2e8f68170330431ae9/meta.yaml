@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b471cda4dbea4a2e8f68170330431ae9/artifacts
+end_time: 1702744234695
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: b471cda4dbea4a2e8f68170330431ae9
+run_name: overjoyed-turtle-637
+run_uuid: b471cda4dbea4a2e8f68170330431ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744234581
+status: 3
+tags: []
+user_id: javie

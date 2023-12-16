@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/afa75d52c78b420cbf45daf252799015/artifacts
+end_time: 1702744183965
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: afa75d52c78b420cbf45daf252799015
+run_name: brawny-roo-316
+run_uuid: afa75d52c78b420cbf45daf252799015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744183857
+status: 3
+tags: []
+user_id: javie

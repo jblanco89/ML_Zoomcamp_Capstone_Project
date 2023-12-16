@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/a315e85212124d4a89603ee2f873830f/artifacts
+deleted_time: 1702744031756
+end_time: 1702743725538
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: a315e85212124d4a89603ee2f873830f
+run_name: delicate-loon-54
+run_uuid: a315e85212124d4a89603ee2f873830f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743725433
+status: 3
+tags: []
+user_id: javie

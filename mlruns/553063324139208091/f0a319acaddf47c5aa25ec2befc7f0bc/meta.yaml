@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f0a319acaddf47c5aa25ec2befc7f0bc/artifacts
+deleted_time: 1702744031792
+end_time: 1702743699193
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: f0a319acaddf47c5aa25ec2befc7f0bc
+run_name: capable-bat-834
+run_uuid: f0a319acaddf47c5aa25ec2befc7f0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743699025
+status: 3
+tags: []
+user_id: javie

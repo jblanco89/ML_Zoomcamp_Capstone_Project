@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f0a4041c9b4242b58bc5a26d08db1506/artifacts
+end_time: 1702744561514
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f0a4041c9b4242b58bc5a26d08db1506
+run_name: inquisitive-pig-759
+run_uuid: f0a4041c9b4242b58bc5a26d08db1506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744561392
+status: 3
+tags: []
+user_id: javie

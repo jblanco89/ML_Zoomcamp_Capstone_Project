@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6c6f5d6e7add41a6a249a1405d82f5a9/artifacts
+deleted_time: 1702744031781
+end_time: 1702743707982
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 6c6f5d6e7add41a6a249a1405d82f5a9
+run_name: stately-trout-876
+run_uuid: 6c6f5d6e7add41a6a249a1405d82f5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743707855
+status: 3
+tags: []
+user_id: javie

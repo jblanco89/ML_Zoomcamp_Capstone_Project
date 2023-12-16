@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/73f49e08369041f6878b12d1af680c28/artifacts
+end_time: 1702744142253
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 73f49e08369041f6878b12d1af680c28
+run_name: indecisive-fawn-598
+run_uuid: 73f49e08369041f6878b12d1af680c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744142149
+status: 3
+tags: []
+user_id: javie

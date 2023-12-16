@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9a585250c7c3423b92b1e34d59320e78/artifacts
+deleted_time: 1702744031811
+end_time: 1702743685949
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 9a585250c7c3423b92b1e34d59320e78
+run_name: stylish-flea-414
+run_uuid: 9a585250c7c3423b92b1e34d59320e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743685847
+status: 3
+tags: []
+user_id: javie

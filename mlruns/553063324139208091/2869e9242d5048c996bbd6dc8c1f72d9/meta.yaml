@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/2869e9242d5048c996bbd6dc8c1f72d9/artifacts
+end_time: 1702744341474
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 2869e9242d5048c996bbd6dc8c1f72d9
+run_name: capricious-sow-78
+run_uuid: 2869e9242d5048c996bbd6dc8c1f72d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744341358
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f67ec1315e0b4fb6813795388e6b85c5/artifacts
+deleted_time: 1702744031838
+end_time: 1702743666143
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: f67ec1315e0b4fb6813795388e6b85c5
+run_name: abrasive-dove-599
+run_uuid: f67ec1315e0b4fb6813795388e6b85c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743666018
+status: 3
+tags: []
+user_id: javie

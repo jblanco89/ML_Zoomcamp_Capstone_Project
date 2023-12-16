@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/98916f8d498c463b91111fd69e403321/artifacts
+deleted_time: 1702744031971
+end_time: 1702743569898
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 98916f8d498c463b91111fd69e403321
+run_name: judicious-ram-808
+run_uuid: 98916f8d498c463b91111fd69e403321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743569798
+status: 3
+tags: []
+user_id: javie

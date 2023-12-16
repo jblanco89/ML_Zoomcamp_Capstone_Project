@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d05082d99e284e168ec36ef165e25e79/artifacts
+deleted_time: 1702744031583
+end_time: 1702743853889
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: d05082d99e284e168ec36ef165e25e79
+run_name: ambitious-fish-752
+run_uuid: d05082d99e284e168ec36ef165e25e79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743853793
+status: 3
+tags: []
+user_id: javie

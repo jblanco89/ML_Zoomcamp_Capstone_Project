@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/1b6af9d177e544f0b6b5d1e18e69cf65/artifacts
+end_time: 1702744241359
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 1b6af9d177e544f0b6b5d1e18e69cf65
+run_name: upset-hen-418
+run_uuid: 1b6af9d177e544f0b6b5d1e18e69cf65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744241235
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/df1f8425d87349898a1a97a6e999f625/artifacts
+end_time: 1702744074730
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: df1f8425d87349898a1a97a6e999f625
+run_name: omniscient-deer-40
+run_uuid: df1f8425d87349898a1a97a6e999f625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744074600
+status: 3
+tags: []
+user_id: javie

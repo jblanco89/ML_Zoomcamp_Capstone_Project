@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/0dc2b122dc644ea2a02000481823162d/artifacts
+deleted_time: 1702744031802
+end_time: 1702743690373
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 0dc2b122dc644ea2a02000481823162d
+run_name: auspicious-loon-376
+run_uuid: 0dc2b122dc644ea2a02000481823162d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743690267
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/0ccb2ef7392444d5be3455c6df8ae5ba/artifacts
+deleted_time: 1702744031918
+end_time: 1702743607088
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 0ccb2ef7392444d5be3455c6df8ae5ba
+run_name: bright-sow-119
+run_uuid: 0ccb2ef7392444d5be3455c6df8ae5ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743606987
+status: 3
+tags: []
+user_id: javie

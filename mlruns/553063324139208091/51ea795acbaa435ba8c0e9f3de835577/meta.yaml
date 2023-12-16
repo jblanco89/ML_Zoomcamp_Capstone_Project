@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/51ea795acbaa435ba8c0e9f3de835577/artifacts
+deleted_time: 1702744031717
+end_time: 1702743756221
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 51ea795acbaa435ba8c0e9f3de835577
+run_name: unique-bird-858
+run_uuid: 51ea795acbaa435ba8c0e9f3de835577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743756124
+status: 3
+tags: []
+user_id: javie

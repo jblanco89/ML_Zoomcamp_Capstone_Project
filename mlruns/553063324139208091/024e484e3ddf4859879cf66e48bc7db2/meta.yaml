@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/024e484e3ddf4859879cf66e48bc7db2/artifacts
+deleted_time: 1702744031671
+end_time: 1702743784580
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 024e484e3ddf4859879cf66e48bc7db2
+run_name: bedecked-mink-695
+run_uuid: 024e484e3ddf4859879cf66e48bc7db2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743784477
+status: 3
+tags: []
+user_id: javie

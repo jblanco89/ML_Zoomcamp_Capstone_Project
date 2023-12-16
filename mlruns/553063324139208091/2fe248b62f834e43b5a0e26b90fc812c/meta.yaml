@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/2fe248b62f834e43b5a0e26b90fc812c/artifacts
+end_time: 1702744339190
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 2fe248b62f834e43b5a0e26b90fc812c
+run_name: sincere-flea-545
+run_uuid: 2fe248b62f834e43b5a0e26b90fc812c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744339072
+status: 3
+tags: []
+user_id: javie

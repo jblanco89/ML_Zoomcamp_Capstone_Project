@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8e590059f4eb419d9159928d21a3f541/artifacts
+deleted_time: 1702744031928
+end_time: 1702743600565
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 8e590059f4eb419d9159928d21a3f541
+run_name: legendary-hare-184
+run_uuid: 8e590059f4eb419d9159928d21a3f541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743600439
+status: 3
+tags: []
+user_id: javie

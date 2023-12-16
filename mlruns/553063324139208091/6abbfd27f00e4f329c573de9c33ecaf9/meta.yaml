@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6abbfd27f00e4f329c573de9c33ecaf9/artifacts
+deleted_time: 1702744031893
+end_time: 1702743624618
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 6abbfd27f00e4f329c573de9c33ecaf9
+run_name: flawless-bat-898
+run_uuid: 6abbfd27f00e4f329c573de9c33ecaf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743624515
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6eadcf4c229647feb5c7dbf132d315ea/artifacts
+end_time: 1702744497033
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 6eadcf4c229647feb5c7dbf132d315ea
+run_name: capricious-newt-572
+run_uuid: 6eadcf4c229647feb5c7dbf132d315ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744496909
+status: 3
+tags: []
+user_id: javie

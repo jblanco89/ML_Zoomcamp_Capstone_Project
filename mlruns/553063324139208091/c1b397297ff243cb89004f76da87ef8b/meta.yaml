@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c1b397297ff243cb89004f76da87ef8b/artifacts
+end_time: 1702744079172
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c1b397297ff243cb89004f76da87ef8b
+run_name: luxuriant-doe-692
+run_uuid: c1b397297ff243cb89004f76da87ef8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744079037
+status: 3
+tags: []
+user_id: javie

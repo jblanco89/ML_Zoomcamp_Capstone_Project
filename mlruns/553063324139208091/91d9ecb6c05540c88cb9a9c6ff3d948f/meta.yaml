@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/91d9ecb6c05540c88cb9a9c6ff3d948f/artifacts
+end_time: 1702744208222
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 91d9ecb6c05540c88cb9a9c6ff3d948f
+run_name: smiling-ant-176
+run_uuid: 91d9ecb6c05540c88cb9a9c6ff3d948f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744208103
+status: 3
+tags: []
+user_id: javie

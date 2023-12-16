@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/963c0208d260448bb6f2a155490f1258/artifacts
+end_time: 1702744357617
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 963c0208d260448bb6f2a155490f1258
+run_name: delicate-ray-880
+run_uuid: 963c0208d260448bb6f2a155490f1258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744357496
+status: 3
+tags: []
+user_id: javie

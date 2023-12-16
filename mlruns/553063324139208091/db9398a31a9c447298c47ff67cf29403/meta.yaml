@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/db9398a31a9c447298c47ff67cf29403/artifacts
+end_time: 1702744201618
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: db9398a31a9c447298c47ff67cf29403
+run_name: wise-kit-444
+run_uuid: db9398a31a9c447298c47ff67cf29403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744201510
+status: 3
+tags: []
+user_id: javie

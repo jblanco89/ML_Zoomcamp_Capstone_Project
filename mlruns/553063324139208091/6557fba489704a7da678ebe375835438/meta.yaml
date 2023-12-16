@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6557fba489704a7da678ebe375835438/artifacts
+deleted_time: 1702744031843
+end_time: 1702743663935
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 6557fba489704a7da678ebe375835438
+run_name: gregarious-hawk-494
+run_uuid: 6557fba489704a7da678ebe375835438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743663834
+status: 3
+tags: []
+user_id: javie

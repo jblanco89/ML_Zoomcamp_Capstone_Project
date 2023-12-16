@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/65a424a767b84f96af0cbd97e9b6214d/artifacts
+end_time: 1702744150999
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 65a424a767b84f96af0cbd97e9b6214d
+run_name: fortunate-seal-603
+run_uuid: 65a424a767b84f96af0cbd97e9b6214d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744150889
+status: 3
+tags: []
+user_id: javie

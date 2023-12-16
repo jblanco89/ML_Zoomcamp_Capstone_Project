@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/73f283d8b545467db9cf49de9b50a712/artifacts
+end_time: 1702744282257
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 73f283d8b545467db9cf49de9b50a712
+run_name: abrasive-bass-33
+run_uuid: 73f283d8b545467db9cf49de9b50a712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744282146
+status: 3
+tags: []
+user_id: javie

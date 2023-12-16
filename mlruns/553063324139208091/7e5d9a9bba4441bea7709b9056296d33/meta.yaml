@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7e5d9a9bba4441bea7709b9056296d33/artifacts
+end_time: 1702744364399
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 7e5d9a9bba4441bea7709b9056296d33
+run_name: salty-kit-897
+run_uuid: 7e5d9a9bba4441bea7709b9056296d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744364275
+status: 3
+tags: []
+user_id: javie

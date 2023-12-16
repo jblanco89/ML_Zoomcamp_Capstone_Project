@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/04bf3ccbfa5e4a389539d3969ff29fee/artifacts
+end_time: 1702744568558
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 04bf3ccbfa5e4a389539d3969ff29fee
+run_name: amusing-sow-917
+run_uuid: 04bf3ccbfa5e4a389539d3969ff29fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744568405
+status: 3
+tags: []
+user_id: javie

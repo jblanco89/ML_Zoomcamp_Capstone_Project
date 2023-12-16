@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/006311520dd54934b7c19552cced1cdb/artifacts
+end_time: 1702744612330
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 006311520dd54934b7c19552cced1cdb
+run_name: unique-trout-32
+run_uuid: 006311520dd54934b7c19552cced1cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744612191
+status: 3
+tags: []
+user_id: javie

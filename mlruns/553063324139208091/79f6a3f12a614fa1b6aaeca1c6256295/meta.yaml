@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/79f6a3f12a614fa1b6aaeca1c6256295/artifacts
+deleted_time: 1702744031663
+end_time: 1702743786739
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 79f6a3f12a614fa1b6aaeca1c6256295
+run_name: merciful-bear-579
+run_uuid: 79f6a3f12a614fa1b6aaeca1c6256295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743786633
+status: 3
+tags: []
+user_id: javie

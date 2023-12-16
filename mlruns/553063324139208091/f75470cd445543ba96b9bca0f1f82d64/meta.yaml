@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f75470cd445543ba96b9bca0f1f82d64/artifacts
+deleted_time: 1702744031617
+end_time: 1702743820262
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: f75470cd445543ba96b9bca0f1f82d64
+run_name: unique-squid-238
+run_uuid: f75470cd445543ba96b9bca0f1f82d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743820164
+status: 3
+tags: []
+user_id: javie

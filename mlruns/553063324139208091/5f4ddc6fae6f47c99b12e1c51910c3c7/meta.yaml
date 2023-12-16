@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/5f4ddc6fae6f47c99b12e1c51910c3c7/artifacts
+end_time: 1702744243573
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 5f4ddc6fae6f47c99b12e1c51910c3c7
+run_name: wise-hawk-118
+run_uuid: 5f4ddc6fae6f47c99b12e1c51910c3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744243457
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/3ba72625a77e40f3b55de013979ca6c1/artifacts
+deleted_time: 1702744031877
+end_time: 1702743639888
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 3ba72625a77e40f3b55de013979ca6c1
+run_name: bald-duck-978
+run_uuid: 3ba72625a77e40f3b55de013979ca6c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743639788
+status: 3
+tags: []
+user_id: javie

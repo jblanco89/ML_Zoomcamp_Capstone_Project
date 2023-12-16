@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/352d5159d31f4fbc9a67f79a76190572/artifacts
+end_time: 1702744414873
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 352d5159d31f4fbc9a67f79a76190572
+run_name: bustling-swan-200
+run_uuid: 352d5159d31f4fbc9a67f79a76190572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744414756
+status: 3
+tags: []
+user_id: javie

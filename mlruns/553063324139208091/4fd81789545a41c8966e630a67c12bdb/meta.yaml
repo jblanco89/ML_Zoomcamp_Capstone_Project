@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4fd81789545a41c8966e630a67c12bdb/artifacts
+end_time: 1702744630653
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 4fd81789545a41c8966e630a67c12bdb
+run_name: abrasive-crane-650
+run_uuid: 4fd81789545a41c8966e630a67c12bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744630517
+status: 3
+tags: []
+user_id: javie

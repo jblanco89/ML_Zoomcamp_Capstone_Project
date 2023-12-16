@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c9bf4d92c14247bc939dad4c90069876/artifacts
+end_time: 1702744554678
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c9bf4d92c14247bc939dad4c90069876
+run_name: honorable-moth-561
+run_uuid: c9bf4d92c14247bc939dad4c90069876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744554555
+status: 3
+tags: []
+user_id: javie

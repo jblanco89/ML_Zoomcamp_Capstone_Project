@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c58632d345064f55843783a4a000f828/artifacts
+end_time: 1702744076951
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c58632d345064f55843783a4a000f828
+run_name: rogue-snake-601
+run_uuid: c58632d345064f55843783a4a000f828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744076823
+status: 3
+tags: []
+user_id: javie

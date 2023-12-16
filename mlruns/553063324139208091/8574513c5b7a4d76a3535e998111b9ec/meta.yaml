@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8574513c5b7a4d76a3535e998111b9ec/artifacts
+end_time: 1702744284533
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 8574513c5b7a4d76a3535e998111b9ec
+run_name: carefree-squid-250
+run_uuid: 8574513c5b7a4d76a3535e998111b9ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744284420
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/29c0d054cc5348a89543805051f29ae5/artifacts
+deleted_time: 1702744031985
+end_time: 1702743514599
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 29c0d054cc5348a89543805051f29ae5
+run_name: resilient-snake-389
+run_uuid: 29c0d054cc5348a89543805051f29ae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743514565
+status: 4
+tags: []
+user_id: javie

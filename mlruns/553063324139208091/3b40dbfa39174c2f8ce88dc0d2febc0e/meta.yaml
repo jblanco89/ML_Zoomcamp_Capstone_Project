@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/3b40dbfa39174c2f8ce88dc0d2febc0e/artifacts
+deleted_time: 1702744031743
+end_time: 1702743734579
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 3b40dbfa39174c2f8ce88dc0d2febc0e
+run_name: bouncy-shrimp-56
+run_uuid: 3b40dbfa39174c2f8ce88dc0d2febc0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743734469
+status: 3
+tags: []
+user_id: javie

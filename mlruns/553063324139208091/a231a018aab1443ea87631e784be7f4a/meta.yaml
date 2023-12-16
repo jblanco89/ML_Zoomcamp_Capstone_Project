@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/a231a018aab1443ea87631e784be7f4a/artifacts
+end_time: 1702744248025
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: a231a018aab1443ea87631e784be7f4a
+run_name: abundant-mare-380
+run_uuid: a231a018aab1443ea87631e784be7f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744247908
+status: 3
+tags: []
+user_id: javie

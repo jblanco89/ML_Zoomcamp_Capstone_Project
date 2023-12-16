@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6c1269a13df44d00accb4bb3b130a9e5/artifacts
+end_time: 1702744159783
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 6c1269a13df44d00accb4bb3b130a9e5
+run_name: stylish-stag-491
+run_uuid: 6c1269a13df44d00accb4bb3b130a9e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744159653
+status: 3
+tags: []
+user_id: javie

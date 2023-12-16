@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/feb6063d02a54f6588b50037672dc349/artifacts
+deleted_time: 1702744031699
+end_time: 1702743767107
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: feb6063d02a54f6588b50037672dc349
+run_name: unleashed-smelt-170
+run_uuid: feb6063d02a54f6588b50037672dc349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743767008
+status: 3
+tags: []
+user_id: javie

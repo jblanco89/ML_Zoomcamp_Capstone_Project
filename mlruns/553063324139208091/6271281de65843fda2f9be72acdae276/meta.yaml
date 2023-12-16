@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6271281de65843fda2f9be72acdae276/artifacts
+end_time: 1702744111130
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 6271281de65843fda2f9be72acdae276
+run_name: amazing-grub-446
+run_uuid: 6271281de65843fda2f9be72acdae276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744110970
+status: 3
+tags: []
+user_id: javie

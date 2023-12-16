@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/96b097cf48ab4791966738a4cd55812f/artifacts
+deleted_time: 1702744031907
+end_time: 1702743615865
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 96b097cf48ab4791966738a4cd55812f
+run_name: clean-shrimp-330
+run_uuid: 96b097cf48ab4791966738a4cd55812f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743615755
+status: 3
+tags: []
+user_id: javie

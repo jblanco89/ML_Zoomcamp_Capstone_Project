@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/3f388a3758934693b7072ed39f03a84c/artifacts
+end_time: 1702744175169
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 3f388a3758934693b7072ed39f03a84c
+run_name: casual-trout-242
+run_uuid: 3f388a3758934693b7072ed39f03a84c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744175057
+status: 3
+tags: []
+user_id: javie

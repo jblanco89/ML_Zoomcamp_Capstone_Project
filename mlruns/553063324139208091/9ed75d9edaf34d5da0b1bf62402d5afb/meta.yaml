@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9ed75d9edaf34d5da0b1bf62402d5afb/artifacts
+end_time: 1702744263925
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 9ed75d9edaf34d5da0b1bf62402d5afb
+run_name: crawling-chimp-253
+run_uuid: 9ed75d9edaf34d5da0b1bf62402d5afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744263813
+status: 3
+tags: []
+user_id: javie

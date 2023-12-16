@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c984e0566db7475dbb9f24001a2d9827/artifacts
+end_time: 1702744214843
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c984e0566db7475dbb9f24001a2d9827
+run_name: angry-moose-617
+run_uuid: c984e0566db7475dbb9f24001a2d9827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744214714
+status: 3
+tags: []
+user_id: javie

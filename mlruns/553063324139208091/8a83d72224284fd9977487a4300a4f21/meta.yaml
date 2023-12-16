@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8a83d72224284fd9977487a4300a4f21/artifacts
+end_time: 1702744588159
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 8a83d72224284fd9977487a4300a4f21
+run_name: fortunate-snipe-15
+run_uuid: 8a83d72224284fd9977487a4300a4f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744588032
+status: 3
+tags: []
+user_id: javie

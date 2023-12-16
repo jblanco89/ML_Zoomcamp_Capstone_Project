@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/bdb11c5ac73e4a798757e78a4f3e19ce/artifacts
+end_time: 1702744188377
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: bdb11c5ac73e4a798757e78a4f3e19ce
+run_name: sophisticated-ox-835
+run_uuid: bdb11c5ac73e4a798757e78a4f3e19ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744188261
+status: 3
+tags: []
+user_id: javie

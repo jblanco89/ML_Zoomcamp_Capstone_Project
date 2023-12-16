@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4b318bcf5455426abb727685b3d2c155/artifacts
+end_time: 1702744538081
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 4b318bcf5455426abb727685b3d2c155
+run_name: bald-penguin-988
+run_uuid: 4b318bcf5455426abb727685b3d2c155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744537957
+status: 3
+tags: []
+user_id: javie

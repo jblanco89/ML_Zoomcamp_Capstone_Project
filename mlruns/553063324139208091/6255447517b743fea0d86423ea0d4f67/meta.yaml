@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6255447517b743fea0d86423ea0d4f67/artifacts
+deleted_time: 1702744031637
+end_time: 1702743811274
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 6255447517b743fea0d86423ea0d4f67
+run_name: stylish-finch-186
+run_uuid: 6255447517b743fea0d86423ea0d4f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743811175
+status: 3
+tags: []
+user_id: javie

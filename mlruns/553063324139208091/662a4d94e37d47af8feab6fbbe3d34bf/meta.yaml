@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/662a4d94e37d47af8feab6fbbe3d34bf/artifacts
+end_time: 1702744140090
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 662a4d94e37d47af8feab6fbbe3d34bf
+run_name: honorable-bass-452
+run_uuid: 662a4d94e37d47af8feab6fbbe3d34bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744139960
+status: 3
+tags: []
+user_id: javie

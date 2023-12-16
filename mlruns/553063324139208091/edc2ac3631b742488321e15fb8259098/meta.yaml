@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/edc2ac3631b742488321e15fb8259098/artifacts
+deleted_time: 1702744031879
+end_time: 1702743635529
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: edc2ac3631b742488321e15fb8259098
+run_name: ambitious-rook-772
+run_uuid: edc2ac3631b742488321e15fb8259098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743635427
+status: 3
+tags: []
+user_id: javie

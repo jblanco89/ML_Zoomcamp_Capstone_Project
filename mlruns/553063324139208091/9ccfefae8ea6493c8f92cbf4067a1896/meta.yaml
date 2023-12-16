@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9ccfefae8ea6493c8f92cbf4067a1896/artifacts
+deleted_time: 1702744031998
+end_time: 1702743355410
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 9ccfefae8ea6493c8f92cbf4067a1896
+run_name: magnificent-boar-810
+run_uuid: 9ccfefae8ea6493c8f92cbf4067a1896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743355361
+status: 3
+tags: []
+user_id: javie

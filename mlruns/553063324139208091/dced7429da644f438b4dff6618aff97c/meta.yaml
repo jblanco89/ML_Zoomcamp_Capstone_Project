@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/dced7429da644f438b4dff6618aff97c/artifacts
+deleted_time: 1702744031995
+end_time: 1702743411736
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: dced7429da644f438b4dff6618aff97c
+run_name: fearless-finch-528
+run_uuid: dced7429da644f438b4dff6618aff97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743411685
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9d546fa1d2fb4786889d2cbc208b68c3/artifacts
+end_time: 1702744626072
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 9d546fa1d2fb4786889d2cbc208b68c3
+run_name: calm-fox-588
+run_uuid: 9d546fa1d2fb4786889d2cbc208b68c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744625917
+status: 3
+tags: []
+user_id: javie

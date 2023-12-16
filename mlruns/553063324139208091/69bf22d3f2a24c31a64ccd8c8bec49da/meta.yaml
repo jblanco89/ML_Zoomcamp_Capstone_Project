@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/69bf22d3f2a24c31a64ccd8c8bec49da/artifacts
+deleted_time: 1702744031717
+end_time: 1702743754059
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 69bf22d3f2a24c31a64ccd8c8bec49da
+run_name: bittersweet-mule-996
+run_uuid: 69bf22d3f2a24c31a64ccd8c8bec49da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743753959
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/650e2b9ab7c34b7c8d61317630553d47/artifacts
+end_time: 1702744212643
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 650e2b9ab7c34b7c8d61317630553d47
+run_name: colorful-mink-413
+run_uuid: 650e2b9ab7c34b7c8d61317630553d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744212528
+status: 3
+tags: []
+user_id: javie

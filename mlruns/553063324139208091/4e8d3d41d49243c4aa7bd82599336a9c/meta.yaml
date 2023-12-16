@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4e8d3d41d49243c4aa7bd82599336a9c/artifacts
+deleted_time: 1702744031765
+end_time: 1702743719012
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4e8d3d41d49243c4aa7bd82599336a9c
+run_name: tasteful-worm-534
+run_uuid: 4e8d3d41d49243c4aa7bd82599336a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743718909
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/199fec038da54298a9d5a5632ad99a3b/artifacts
+end_time: 1702744217044
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 199fec038da54298a9d5a5632ad99a3b
+run_name: powerful-kit-915
+run_uuid: 199fec038da54298a9d5a5632ad99a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744216917
+status: 3
+tags: []
+user_id: javie

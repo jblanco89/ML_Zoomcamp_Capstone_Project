@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f98821fc345f4289baf35deb90609080/artifacts
+end_time: 1702744210432
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f98821fc345f4289baf35deb90609080
+run_name: marvelous-duck-799
+run_uuid: f98821fc345f4289baf35deb90609080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744210313
+status: 3
+tags: []
+user_id: javie

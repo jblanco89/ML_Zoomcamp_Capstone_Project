@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9598bdb0e6a94ebfaa53b1ed694f3cd8/artifacts
+end_time: 1702744181767
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 9598bdb0e6a94ebfaa53b1ed694f3cd8
+run_name: valuable-crow-109
+run_uuid: 9598bdb0e6a94ebfaa53b1ed694f3cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744181659
+status: 3
+tags: []
+user_id: javie

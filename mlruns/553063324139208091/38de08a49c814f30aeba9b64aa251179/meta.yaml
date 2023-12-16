@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/38de08a49c814f30aeba9b64aa251179/artifacts
+end_time: 1702744543026
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 38de08a49c814f30aeba9b64aa251179
+run_name: thoughtful-snail-231
+run_uuid: 38de08a49c814f30aeba9b64aa251179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744542893
+status: 3
+tags: []
+user_id: javie

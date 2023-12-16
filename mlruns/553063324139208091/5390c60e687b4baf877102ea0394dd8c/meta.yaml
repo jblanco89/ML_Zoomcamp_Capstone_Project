@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/5390c60e687b4baf877102ea0394dd8c/artifacts
+end_time: 1702744490248
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 5390c60e687b4baf877102ea0394dd8c
+run_name: capable-gnu-839
+run_uuid: 5390c60e687b4baf877102ea0394dd8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744490120
+status: 3
+tags: []
+user_id: javie

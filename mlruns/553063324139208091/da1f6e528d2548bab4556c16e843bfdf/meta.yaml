@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/da1f6e528d2548bab4556c16e843bfdf/artifacts
+end_time: 1702744352960
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: da1f6e528d2548bab4556c16e843bfdf
+run_name: orderly-stag-374
+run_uuid: da1f6e528d2548bab4556c16e843bfdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744352837
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4a891c7c635a4fa4b3342041032c9bdd/artifacts
+deleted_time: 1702744031819
+end_time: 1702743681543
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4a891c7c635a4fa4b3342041032c9bdd
+run_name: invincible-snake-666
+run_uuid: 4a891c7c635a4fa4b3342041032c9bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743681360
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/53dd89ed45f14fa6982bb2ff75618e87/artifacts
+end_time: 1702744348363
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 53dd89ed45f14fa6982bb2ff75618e87
+run_name: melodic-bee-80
+run_uuid: 53dd89ed45f14fa6982bb2ff75618e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744348241
+status: 3
+tags: []
+user_id: javie

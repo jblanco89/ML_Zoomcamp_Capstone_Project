@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/9b785740c98743f6ad7038096f0e51ae/artifacts
+deleted_time: 1702744031790
+end_time: 1702743701387
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 9b785740c98743f6ad7038096f0e51ae
+run_name: gregarious-lark-90
+run_uuid: 9b785740c98743f6ad7038096f0e51ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743701280
+status: 3
+tags: []
+user_id: javie

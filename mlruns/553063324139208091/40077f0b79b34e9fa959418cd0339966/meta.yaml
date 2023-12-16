@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/40077f0b79b34e9fa959418cd0339966/artifacts
+end_time: 1702744232484
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 40077f0b79b34e9fa959418cd0339966
+run_name: puzzled-toad-921
+run_uuid: 40077f0b79b34e9fa959418cd0339966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744232370
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/2c926d891a2548a2b30b377c654cf7ee/artifacts
+end_time: 1702744432936
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 2c926d891a2548a2b30b377c654cf7ee
+run_name: trusting-goat-457
+run_uuid: 2c926d891a2548a2b30b377c654cf7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744432814
+status: 3
+tags: []
+user_id: javie

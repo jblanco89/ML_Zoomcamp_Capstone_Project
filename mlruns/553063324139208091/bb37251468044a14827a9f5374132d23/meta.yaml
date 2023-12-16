@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/bb37251468044a14827a9f5374132d23/artifacts
+deleted_time: 1702744031929
+end_time: 1702743598357
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: bb37251468044a14827a9f5374132d23
+run_name: stylish-calf-30
+run_uuid: bb37251468044a14827a9f5374132d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743598255
+status: 3
+tags: []
+user_id: javie

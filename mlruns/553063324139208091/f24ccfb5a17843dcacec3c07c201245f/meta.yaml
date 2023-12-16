@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f24ccfb5a17843dcacec3c07c201245f/artifacts
+end_time: 1702744410267
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f24ccfb5a17843dcacec3c07c201245f
+run_name: melodic-shoat-542
+run_uuid: f24ccfb5a17843dcacec3c07c201245f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744410148
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/e0488e1e2185438982104ec5d1918ff5/artifacts
+deleted_time: 1702744031692
+end_time: 1702743769292
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: e0488e1e2185438982104ec5d1918ff5
+run_name: bedecked-asp-542
+run_uuid: e0488e1e2185438982104ec5d1918ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743769191
+status: 3
+tags: []
+user_id: javie

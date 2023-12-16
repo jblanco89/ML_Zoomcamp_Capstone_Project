@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/2df0d24a51f54e068959c85d1d170bca/artifacts
+end_time: 1702744286844
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 2df0d24a51f54e068959c85d1d170bca
+run_name: dashing-sheep-552
+run_uuid: 2df0d24a51f54e068959c85d1d170bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744286731
+status: 3
+tags: []
+user_id: javie

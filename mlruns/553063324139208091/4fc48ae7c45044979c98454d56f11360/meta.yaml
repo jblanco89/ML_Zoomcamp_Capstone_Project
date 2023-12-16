@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4fc48ae7c45044979c98454d56f11360/artifacts
+deleted_time: 1702744031739
+end_time: 1702743738909
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 4fc48ae7c45044979c98454d56f11360
+run_name: awesome-pig-323
+run_uuid: 4fc48ae7c45044979c98454d56f11360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743738805
+status: 3
+tags: []
+user_id: javie

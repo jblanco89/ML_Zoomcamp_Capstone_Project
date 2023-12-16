@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8e60acd421a04a67ae6f54d26e32fffa/artifacts
+deleted_time: 1702744031986
+end_time: 1702743514555
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 8e60acd421a04a67ae6f54d26e32fffa
+run_name: painted-skink-455
+run_uuid: 8e60acd421a04a67ae6f54d26e32fffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743514508
+status: 3
+tags: []
+user_id: javie

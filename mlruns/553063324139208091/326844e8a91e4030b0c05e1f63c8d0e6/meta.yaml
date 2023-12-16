@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/326844e8a91e4030b0c05e1f63c8d0e6/artifacts
+deleted_time: 1702744031960
+end_time: 1702743576401
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 326844e8a91e4030b0c05e1f63c8d0e6
+run_name: orderly-gnat-528
+run_uuid: 326844e8a91e4030b0c05e1f63c8d0e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743576312
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ca2b4cdb80d24465a2ed9ed76a81a8f6/artifacts
+end_time: 1702744113378
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: ca2b4cdb80d24465a2ed9ed76a81a8f6
+run_name: dapper-trout-272
+run_uuid: ca2b4cdb80d24465a2ed9ed76a81a8f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744113237
+status: 3
+tags: []
+user_id: javie

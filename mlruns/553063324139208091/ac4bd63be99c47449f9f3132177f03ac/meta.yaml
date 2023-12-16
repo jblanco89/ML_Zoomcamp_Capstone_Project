@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ac4bd63be99c47449f9f3132177f03ac/artifacts
+end_time: 1702744252498
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: ac4bd63be99c47449f9f3132177f03ac
+run_name: legendary-fox-268
+run_uuid: ac4bd63be99c47449f9f3132177f03ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744252387
+status: 3
+tags: []
+user_id: javie

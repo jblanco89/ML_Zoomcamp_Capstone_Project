@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b9c5ffc06fa740ee802df1365dda794e/artifacts
+end_time: 1702744592971
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: b9c5ffc06fa740ee802df1365dda794e
+run_name: sassy-croc-281
+run_uuid: b9c5ffc06fa740ee802df1365dda794e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744592855
+status: 3
+tags: []
+user_id: javie

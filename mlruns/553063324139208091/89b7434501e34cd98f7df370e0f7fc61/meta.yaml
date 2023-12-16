@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/89b7434501e34cd98f7df370e0f7fc61/artifacts
+end_time: 1702744359882
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 89b7434501e34cd98f7df370e0f7fc61
+run_name: chill-gnu-985
+run_uuid: 89b7434501e34cd98f7df370e0f7fc61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744359759
+status: 3
+tags: []
+user_id: javie

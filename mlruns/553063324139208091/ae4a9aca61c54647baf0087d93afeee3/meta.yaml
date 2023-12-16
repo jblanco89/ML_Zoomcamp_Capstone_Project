@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ae4a9aca61c54647baf0087d93afeee3/artifacts
+deleted_time: 1702744031992
+end_time: 1702743466258
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: ae4a9aca61c54647baf0087d93afeee3
+run_name: gentle-asp-552
+run_uuid: ae4a9aca61c54647baf0087d93afeee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743466208
+status: 3
+tags: []
+user_id: javie

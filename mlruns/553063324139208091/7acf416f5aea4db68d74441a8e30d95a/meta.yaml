@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7acf416f5aea4db68d74441a8e30d95a/artifacts
+deleted_time: 1702744031653
+end_time: 1702743795437
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 7acf416f5aea4db68d74441a8e30d95a
+run_name: flawless-dolphin-498
+run_uuid: 7acf416f5aea4db68d74441a8e30d95a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743795321
+status: 3
+tags: []
+user_id: javie

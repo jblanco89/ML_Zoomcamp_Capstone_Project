@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c7285fc97deb4547bfc9daa4236f0bf2/artifacts
+end_time: 1702744391777
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c7285fc97deb4547bfc9daa4236f0bf2
+run_name: chill-bee-854
+run_uuid: c7285fc97deb4547bfc9daa4236f0bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744391659
+status: 3
+tags: []
+user_id: javie

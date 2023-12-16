@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b47545569f12428b88d40259ca395dc3/artifacts
+deleted_time: 1702744031845
+end_time: 1702743661739
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: b47545569f12428b88d40259ca395dc3
+run_name: glamorous-mouse-209
+run_uuid: b47545569f12428b88d40259ca395dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743661638
+status: 3
+tags: []
+user_id: javie

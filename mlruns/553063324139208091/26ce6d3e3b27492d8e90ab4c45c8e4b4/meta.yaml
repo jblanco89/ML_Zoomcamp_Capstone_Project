@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/26ce6d3e3b27492d8e90ab4c45c8e4b4/artifacts
+deleted_time: 1702744031629
+end_time: 1702743813528
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 26ce6d3e3b27492d8e90ab4c45c8e4b4
+run_name: auspicious-moose-867
+run_uuid: 26ce6d3e3b27492d8e90ab4c45c8e4b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743813431
+status: 3
+tags: []
+user_id: javie

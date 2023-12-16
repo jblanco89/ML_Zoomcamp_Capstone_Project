@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/5f8e7cda7fcf4ef59ae57003eb51844d/artifacts
+end_time: 1702744437415
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 5f8e7cda7fcf4ef59ae57003eb51844d
+run_name: whimsical-trout-515
+run_uuid: 5f8e7cda7fcf4ef59ae57003eb51844d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744437298
+status: 3
+tags: []
+user_id: javie

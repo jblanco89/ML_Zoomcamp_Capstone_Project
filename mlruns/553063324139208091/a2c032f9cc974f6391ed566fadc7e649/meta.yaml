@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/a2c032f9cc974f6391ed566fadc7e649/artifacts
+deleted_time: 1702744031767
+end_time: 1702743716827
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: a2c032f9cc974f6391ed566fadc7e649
+run_name: clumsy-tern-393
+run_uuid: a2c032f9cc974f6391ed566fadc7e649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743716728
+status: 3
+tags: []
+user_id: javie

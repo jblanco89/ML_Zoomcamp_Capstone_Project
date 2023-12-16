@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6a05796b475740729747dc939f042dbe/artifacts
+end_time: 1702744302799
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 6a05796b475740729747dc939f042dbe
+run_name: omniscient-worm-419
+run_uuid: 6a05796b475740729747dc939f042dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744302683
+status: 3
+tags: []
+user_id: javie

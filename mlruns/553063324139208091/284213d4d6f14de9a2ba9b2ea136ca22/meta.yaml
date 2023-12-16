@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/284213d4d6f14de9a2ba9b2ea136ca22/artifacts
+deleted_time: 1702744031960
+end_time: 1702743578555
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 284213d4d6f14de9a2ba9b2ea136ca22
+run_name: thoughtful-steed-538
+run_uuid: 284213d4d6f14de9a2ba9b2ea136ca22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743578464
+status: 3
+tags: []
+user_id: javie

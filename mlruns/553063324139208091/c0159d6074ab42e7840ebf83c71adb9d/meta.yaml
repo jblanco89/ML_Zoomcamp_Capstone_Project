@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c0159d6074ab42e7840ebf83c71adb9d/artifacts
+deleted_time: 1702744031690
+end_time: 1702743771468
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: c0159d6074ab42e7840ebf83c71adb9d
+run_name: legendary-owl-678
+run_uuid: c0159d6074ab42e7840ebf83c71adb9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743771365
+status: 3
+tags: []
+user_id: javie

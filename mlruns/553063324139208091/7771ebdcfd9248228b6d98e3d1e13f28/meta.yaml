@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/7771ebdcfd9248228b6d98e3d1e13f28/artifacts
+deleted_time: 1702744031762
+end_time: 1702743721197
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 7771ebdcfd9248228b6d98e3d1e13f28
+run_name: welcoming-hawk-525
+run_uuid: 7771ebdcfd9248228b6d98e3d1e13f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743721093
+status: 3
+tags: []
+user_id: javie

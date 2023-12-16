@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b25c41df03e74b7f89545718a0ffd395/artifacts
+deleted_time: 1702744031627
+end_time: 1702743815784
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: b25c41df03e74b7f89545718a0ffd395
+run_name: gentle-dove-708
+run_uuid: b25c41df03e74b7f89545718a0ffd395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743815684
+status: 3
+tags: []
+user_id: javie

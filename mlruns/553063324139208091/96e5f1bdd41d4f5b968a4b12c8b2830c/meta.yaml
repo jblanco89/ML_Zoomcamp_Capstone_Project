@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/96e5f1bdd41d4f5b968a4b12c8b2830c/artifacts
+deleted_time: 1702744031581
+end_time: 1702743856087
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 96e5f1bdd41d4f5b968a4b12c8b2830c
+run_name: nervous-tern-679
+run_uuid: 96e5f1bdd41d4f5b968a4b12c8b2830c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743855984
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/509b06a81fd445e2b48346b7ffdb0abb/artifacts
+end_time: 1702744518518
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 509b06a81fd445e2b48346b7ffdb0abb
+run_name: shivering-dove-578
+run_uuid: 509b06a81fd445e2b48346b7ffdb0abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744518393
+status: 3
+tags: []
+user_id: javie

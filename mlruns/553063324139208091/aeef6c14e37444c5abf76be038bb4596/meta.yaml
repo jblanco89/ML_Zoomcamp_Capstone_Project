@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/aeef6c14e37444c5abf76be038bb4596/artifacts
+deleted_time: 1702744031963
+end_time: 1702743574243
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: aeef6c14e37444c5abf76be038bb4596
+run_name: thundering-quail-816
+run_uuid: aeef6c14e37444c5abf76be038bb4596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743574137
+status: 3
+tags: []
+user_id: javie

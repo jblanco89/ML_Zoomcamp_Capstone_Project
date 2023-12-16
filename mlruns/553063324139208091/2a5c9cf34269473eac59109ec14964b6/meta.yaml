@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/2a5c9cf34269473eac59109ec14964b6/artifacts
+deleted_time: 1702744031640
+end_time: 1702743809021
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 2a5c9cf34269473eac59109ec14964b6
+run_name: gifted-midge-180
+run_uuid: 2a5c9cf34269473eac59109ec14964b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743808923
+status: 3
+tags: []
+user_id: javie

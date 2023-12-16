@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f2f3728ea05249eb8cbe2451d0879522/artifacts
+end_time: 1702744511277
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f2f3728ea05249eb8cbe2451d0879522
+run_name: bemused-roo-490
+run_uuid: f2f3728ea05249eb8cbe2451d0879522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744511128
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/d5c8c7c2541a4878831f14380097171b/artifacts
+end_time: 1702744135705
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: d5c8c7c2541a4878831f14380097171b
+run_name: exultant-hare-946
+run_uuid: d5c8c7c2541a4878831f14380097171b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744135574
+status: 3
+tags: []
+user_id: javie

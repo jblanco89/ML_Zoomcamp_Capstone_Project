@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c6ecc1e20fdb428e9552b6eea45ad6ce/artifacts
+end_time: 1702744259344
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: c6ecc1e20fdb428e9552b6eea45ad6ce
+run_name: nebulous-loon-431
+run_uuid: c6ecc1e20fdb428e9552b6eea45ad6ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744259233
+status: 3
+tags: []
+user_id: javie

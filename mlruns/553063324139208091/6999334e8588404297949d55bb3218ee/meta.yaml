@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/6999334e8588404297949d55bb3218ee/artifacts
+end_time: 1702744128884
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 6999334e8588404297949d55bb3218ee
+run_name: monumental-jay-887
+run_uuid: 6999334e8588404297949d55bb3218ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744128740
+status: 3
+tags: []
+user_id: javie

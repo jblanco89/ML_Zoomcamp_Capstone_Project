@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f11c5d68b73e40f0983cbafdb5e0dedd/artifacts
+deleted_time: 1702744031627
+end_time: 1702743818027
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: f11c5d68b73e40f0983cbafdb5e0dedd
+run_name: nebulous-jay-268
+run_uuid: f11c5d68b73e40f0983cbafdb5e0dedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743817926
+status: 3
+tags: []
+user_id: javie

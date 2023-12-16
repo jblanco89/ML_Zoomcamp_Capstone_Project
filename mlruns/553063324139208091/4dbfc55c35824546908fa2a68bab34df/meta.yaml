@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/4dbfc55c35824546908fa2a68bab34df/artifacts
+end_time: 1702744447014
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 4dbfc55c35824546908fa2a68bab34df
+run_name: chill-dog-538
+run_uuid: 4dbfc55c35824546908fa2a68bab34df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744446883
+status: 3
+tags: []
+user_id: javie

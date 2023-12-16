@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/ecf6539a8e12423cb52b0f920019b4b2/artifacts
+deleted_time: 1702744031651
+end_time: 1702743797750
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: ecf6539a8e12423cb52b0f920019b4b2
+run_name: whimsical-bee-700
+run_uuid: ecf6539a8e12423cb52b0f920019b4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743797624
+status: 3
+tags: []
+user_id: javie

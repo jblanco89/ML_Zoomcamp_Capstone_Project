@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b30a92c49a074861a80846856d7d8723/artifacts
+deleted_time: 1702744031823
+end_time: 1702743679277
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: b30a92c49a074861a80846856d7d8723
+run_name: illustrious-auk-902
+run_uuid: b30a92c49a074861a80846856d7d8723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743679174
+status: 3
+tags: []
+user_id: javie

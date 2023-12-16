@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/e33c2511b8214de291feed6f95e1fe09/artifacts
+deleted_time: 1702744031913
+end_time: 1702743613669
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: e33c2511b8214de291feed6f95e1fe09
+run_name: illustrious-roo-196
+run_uuid: e33c2511b8214de291feed6f95e1fe09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743613565
+status: 3
+tags: []
+user_id: javie

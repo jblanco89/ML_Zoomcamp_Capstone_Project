@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/1b79f798763e4d5a89aed0fb6699a13f/artifacts
+end_time: 1702744318539
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 1b79f798763e4d5a89aed0fb6699a13f
+run_name: charming-shark-2
+run_uuid: 1b79f798763e4d5a89aed0fb6699a13f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744318423
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8c476e1a9fa24d828187f96533f7eb9f/artifacts
+deleted_time: 1702744031686
+end_time: 1702743773651
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 8c476e1a9fa24d828187f96533f7eb9f
+run_name: peaceful-rook-372
+run_uuid: 8c476e1a9fa24d828187f96533f7eb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743773547
+status: 3
+tags: []
+user_id: javie

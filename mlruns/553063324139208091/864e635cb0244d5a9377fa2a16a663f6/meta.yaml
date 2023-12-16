@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/864e635cb0244d5a9377fa2a16a663f6/artifacts
+deleted_time: 1702744031882
+end_time: 1702743633342
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 864e635cb0244d5a9377fa2a16a663f6
+run_name: monumental-ram-558
+run_uuid: 864e635cb0244d5a9377fa2a16a663f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743633230
+status: 3
+tags: []
+user_id: javie

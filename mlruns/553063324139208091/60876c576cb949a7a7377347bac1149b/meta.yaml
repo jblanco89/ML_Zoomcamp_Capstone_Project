@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/60876c576cb949a7a7377347bac1149b/artifacts
+deleted_time: 1702744031798
+end_time: 1702743694773
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: 60876c576cb949a7a7377347bac1149b
+run_name: salty-hog-458
+run_uuid: 60876c576cb949a7a7377347bac1149b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743694669
+status: 3
+tags: []
+user_id: javie

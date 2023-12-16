@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/b08edf20b6a447108c3243a5a26d8cbf/artifacts
+deleted_time: 1702744031762
+end_time: 1702743723368
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: b08edf20b6a447108c3243a5a26d8cbf
+run_name: efficient-carp-17
+run_uuid: b08edf20b6a447108c3243a5a26d8cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743723263
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/8dd5c35aafad45738460863f9d1e25b3/artifacts
+end_time: 1702744170773
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 8dd5c35aafad45738460863f9d1e25b3
+run_name: luminous-bat-394
+run_uuid: 8dd5c35aafad45738460863f9d1e25b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744170654
+status: 3
+tags: []
+user_id: javie

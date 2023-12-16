@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/f56f6a3055c94b9daf8f1095482afebc/artifacts
+end_time: 1702744323131
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: f56f6a3055c94b9daf8f1095482afebc
+run_name: mercurial-hog-911
+run_uuid: f56f6a3055c94b9daf8f1095482afebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744323012
+status: 3
+tags: []
+user_id: javie

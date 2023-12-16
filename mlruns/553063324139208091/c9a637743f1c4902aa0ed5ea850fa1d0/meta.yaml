@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/c9a637743f1c4902aa0ed5ea850fa1d0/artifacts
+deleted_time: 1702744031831
+end_time: 1702743674910
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: deleted
+run_id: c9a637743f1c4902aa0ed5ea850fa1d0
+run_name: invincible-fowl-932
+run_uuid: c9a637743f1c4902aa0ed5ea850fa1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702743674807
+status: 3
+tags: []
+user_id: javie

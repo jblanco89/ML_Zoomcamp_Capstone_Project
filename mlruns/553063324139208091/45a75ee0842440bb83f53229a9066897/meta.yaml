@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553063324139208091/45a75ee0842440bb83f53229a9066897/artifacts
+end_time: 1702744621508
+entry_point_name: ''
+experiment_id: '553063324139208091'
+lifecycle_stage: active
+run_id: 45a75ee0842440bb83f53229a9066897
+run_name: clean-gull-417
+run_uuid: 45a75ee0842440bb83f53229a9066897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702744621382
+status: 3
+tags: []
+user_id: javie
