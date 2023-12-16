@@ -6,6 +6,29 @@
 
 Cohort 2023-2024
 
+
+# Run App
+
+### Data Structure
+
+To run this project and test metalearner (xgboost ensemble) Time serie Datasets should be like this:
+
+| unique_id | ds                         | y                |
+|-----------|----------------------------|------------------|
+| store_1   | 2019-05-05 14:54:17.349333 | 1250.0           |
+| store_1   | 2019-05-12 14:54:17.349333 | 1250.00041666667 |
+| store_1   | 2019-05-19 14:54:17.349333 | 1250.06997804507 |
+| store_1   | 2019-05-26 14:54:17.349333 | 1250.02991280279 |
+| store_1   | 2019-06-02 14:54:17.349333 | 1250.14940027601 |
+| store_1   | 2019-06-09 14:54:17.349333 | 1250.19648033048 |
+| store_1   | 2019-06-16 14:54:17.349333 | 1250.30091702846 |
+| store_1   | 2019-06-23 14:54:17.349333 | 1250.40550119065 |
+| store_1   | 2019-06-30 14:54:17.349333 | 1250.49373326991 |
+| store_1   | 2019-07-07 14:54:17.349333 | 1250.44407862312 |
+| store_1   | 2019-07-14 14:54:17.349333 | 1250.70123105731 |
+
+
+
 # Table of Contents
 
 1. [Project Approach](#project-approach)
@@ -26,8 +49,6 @@ Cohort 2023-2024
 ## Project Approach
 
 For this project, I chose to experiment with time series forecasting methods based on `XGBoost` as an ensemble learner and other methods such as `ARIMA` `ETS`, and `Theta` as base learner models. The goal was to develop a more robust machine learning model capable of achieving superior forecasting performance. To do this I will try the [Montero-Manso et al.(2019)](https://robjhyndman.com/papers/fforma.pdf) article, titled *"FFORMA: Feature-based Forecast Model Averaging"*. Here, they proposed an automated method for obtaining `weighted forecast combinations` using **time series features**. The approach involved two phases. Firstly, a collection of time series was used to train a meta-model, assigning weights to various possible forecasting methods with the aim of minimizing the average forecasting loss from a weighted forecast combination. The inputs to the meta-model were features extracted from each series. In the second phase, new series were forecasted using a `weighted forecast combination`, where the weights were obtained from the previously `trained meta-model`. Their method outperformed a simple forecast combination and surpassed all of the most popular individual methods in the time series forecasting literature. The approach achieved the second position in the M4 competition.
-
-## Motivation
 
 
 ## Synthetic Data and Time Series Dataset
