@@ -105,32 +105,32 @@ for s in stores_list:
     print(mape_df)
 
 
-    # df_ts = df_ts.iloc[:-24]
+    df_ts = df_ts.iloc[:-24]
    
-    # plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6))
 
-    # # Plotting the original time series
-    # plt.plot(df_ts['ds'].tail(50), df_ts['y'].tail(50), label='Original',linewidth=1.5, linestyle='-', color='black')
+    # Plotting the original time series
+    plt.plot(df_ts['ds'].tail(50), df_ts['y'].tail(50), label='Original',linewidth=1.5, linestyle='-', color='black')
 
-    # # Plotting the predictions
-    # plt.plot(df_predictions['ds'], df_predictions['Arima'], label='Arima',linewidth=1, linestyle='-.')
-    # plt.plot(df_predictions['ds'], df_predictions['ETS'], label='ETS',linewidth=1, linestyle='-.')
-    # plt.plot(df_predictions['ds'], df_predictions['Theta'], label='Theta',linewidth=1, linestyle='-.')
-    # plt.plot(df_predictions['ds'], df_predictions['Metalearner'], label='Metalearner',linewidth=1, linestyle='-.')
+    # Plotting the predictions
+    plt.plot(df_predictions['ds'], df_predictions['Arima'], label='Arima',linewidth=1, linestyle='-.')
+    plt.plot(df_predictions['ds'], df_predictions['ETS'], label='ETS',linewidth=1, linestyle='-.')
+    plt.plot(df_predictions['ds'], df_predictions['Theta'], label='Theta',linewidth=1, linestyle='-.')
+    plt.plot(df_predictions['ds'], df_predictions['Metalearner'], label='Metalearner',linewidth=1, linestyle='-.')
 
-    # plt.title(f'Time Series for Store {s}')
-    # plt.xlabel('Date')
-    # plt.ylabel('Value')
-    # plt.legend()
+    plt.title(f'Time Series for Store {s}')
+    plt.xlabel('Date')
+    plt.ylabel('Value')
+    plt.legend()
 
-    # plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=7))
-    # plt.xticks(rotation=45)
-    # plt.tight_layout()
-    # # plt.clf()
+    plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=7))
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    # plt.clf()
     
-    # plt.savefig(f'./img/forecasting/plot_{s}.png')
-    # plt.show(block=False)
-    # plt.pause(0.1)
+    plt.savefig(f'./img/forecasting/plot_{s}.png')
+    plt.show(block=False)
+    plt.pause(0.1)
 
 # plt.show()
 print(mapes)
