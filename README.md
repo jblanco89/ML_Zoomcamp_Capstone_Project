@@ -7,27 +7,54 @@
 Cohort 2023-2024
 
 
-# Run App
+# Installation and Run
+
+### Prerequisites
+Anaconda or Miniconda, along with Docker, are highly recommended for installation on your local machine before executing this application. While not mandatory, these tools contribute significantly to a smoother and more efficient deployment of the application. 
 
 ### Data Structure
 
-To run this project and test metalearner (xgboost ensemble) Time serie Datasets should be like this:
+To run this project and test metalearner (xgboost ensemble) Time serie Datasets should adhere to the following format:
 
-| unique_id | ds                         | y                |
-|-----------|----------------------------|------------------|
-| store_1   | 2019-05-05 14:54:17.349333 | 1250.0           |
-| store_1   | 2019-05-12 14:54:17.349333 | 1250.00041666667 |
-| store_1   | 2019-05-19 14:54:17.349333 | 1250.06997804507 |
-| store_1   | 2019-05-26 14:54:17.349333 | 1250.02991280279 |
-| store_1   | 2019-06-02 14:54:17.349333 | 1250.14940027601 |
-| store_1   | 2019-06-09 14:54:17.349333 | 1250.19648033048 |
-| store_1   | 2019-06-16 14:54:17.349333 | 1250.30091702846 |
-| store_1   | 2019-06-23 14:54:17.349333 | 1250.40550119065 |
-| store_1   | 2019-06-30 14:54:17.349333 | 1250.49373326991 |
-| store_1   | 2019-07-07 14:54:17.349333 | 1250.44407862312 |
-| store_1   | 2019-07-14 14:54:17.349333 | 1250.70123105731 |
+| unique_id | ds         | y                |
+|-----------|------------|------------------|
+| store_1   | 2019-05-05 | 1250.0           |
+| store_1   | 2019-05-12 | 1250.00041666667 |
+| store_1   | 2019-05-19 | 1250.06997804507 |
+| store_2   | 2019-05-26 | 1250.02991280279 |
+| store_2   | 2019-06-02 | 1250.14940027601 |
+| store_2   | 2019-06-09 | 1250.19648033048 |
+| store_3   | 2019-06-16 | 1250.30091702846 |
+| store_3   | 2019-06-23 | 1250.40550119065 |
+| store_3   | 2019-06-30 | 1250.49373326991 |
+| store_4   | 2019-07-07 | 1250.44407862312 |
+| store_4   | 2019-07-14 | 1250.70123105731 |
 
+### Run app locally
 
+```bash
+   git clone https://github.com/jblanco89/ML_Zoomcamp_Capstone_Project.git
+   cd ML_Zoomcamp_Capstone_Project
+   pip install -r requirements.txt
+```
+```bash
+# How to use main.py
+   python src/main.py src/Features/all_data_ts.csv
+```
+
+## Run app with DOCKER
+
+To facilitate the deployment of this system, it is imperative to have Docker and Docker-Compose installed on your system. An useful installation guide is available in this [link](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro)
+
+Open a terminal or command prompt, navigate to the directory containing Dockerfile
+```bash
+    docker build -t your_image_name:tag .
+```
+and then
+
+```bash
+    docker run -p 4000:80 your_image_name:tag
+```
 
 # Table of Contents
 
@@ -231,6 +258,9 @@ Minimum Absolute error calculated was `0.717 %`
 
 ## Results
 
+The ensuing analysis of Store Time Series reveals distinct performance metrics among various models. Notably, the Metalearner model, instantiated as an Ensemble XGBoost Model, displays superior efficacy relative to the ARIMA model, although exhibiting a marginally inferior performance when compared to the Theta and ETS models. This discrepancy in performance can be attributed to the inherent capacity of both the ETS and Theta models to account for the pronounced seasonal patterns inherent in the dataset. Additionally, it is pertinent to acknowledge that all time series datasets under consideration demonstrate a stationary nature.
+
+In spite of the prevalent stationarity, the Metalearner model demonstrates considerable utility when applied to authentic data, surpassing its performance on synthetic datasets akin to the one under examination. This underscores the adaptability and practical applicability of the Metalearner model in real-world scenarios.
 
 ![forecasting](img/forecasting/plot_store_2.png)
 
@@ -240,6 +270,9 @@ Minimum Absolute error calculated was `0.717 %`
 
 
 ![forecasting](img/forecasting/plot_store_6.png)
+
+
+The initial ten store Mean Absolute Percentage Errors (MAPEs) are presented in the next table. The Ensemble method, as introduced by the FFORMA algorithm, exhibits commendable performance in contrast to traditional forecasting approaches such as ARIMA, ETS, and Theta methods. There exists an avenue for further enrichment of the analytical framework by incorporating additional time series methodologies, including TBATS (comprising Trigonometric seasonality, Box-Cox transformation, ARMA errors, Trend, and Seasonal components) and STL (Seasonal-Trend decomposition using LOESS). Such augmentation holds promise for a more comprehensive evaluation and refinement of forecasting outcomes.
 
 
 |    | Store     | Arima                  | ETS                   | Theta                  | Metalearner            |
@@ -258,5 +291,24 @@ Minimum Absolute error calculated was `0.717 %`
 
 
 ## Main Conclusions
+* All time series, with the exception of store 64 sales, exhibit
+stationarity, thereby greatly facilitating the forecasting estimation process for the models under consideration: AutoArima, ETS, and Theta.
+
+* The presence of stationarity in time series data is paramount for forecasting methodologies, as it simplifies model parameter estimation and ensures the stability of statistical properties over time, thereby promoting the reliability and suitability of the forecasting process.
+
+* The Ensemble Learning method has demonstrated commendable efficacy in sales forecasting across all stores, even in light of the synthetic data generation through the Stochastic Differential Equation (SDE) model. Notably, its performance is quantified at approximately 0.7% in terms of absolute error percentage, contrasting favorably with the ARIMA, ETS, and Theta models, which exhibit error percentages of 1.2%, 0.5%, and 0.55%, respectively.
+
+* Furthermore, it is strongly recommended to implement a multithreading process within this project to enhance the temporal execution efficiency of individual base learners. This optimization strategy is anticipated to yield notable improvements in computational performance, thereby fostering more expedient model training and evaluation. 
+
 
 ## REFERENCES
+
+* Montero-Manso, P., Athanasopoulos, G., Hyndman, R. J., & Talagala, T. S. (2020). FFORMA: Feature-based forecast model averaging. International Journal of Forecasting, 36(1), 86-92.
+
+* Talagala, T. S., Hyndman, R. J., & Athanasopoulos, G. (2023). Meta‐learning how to forecast time series. Journal of Forecasting, 42(6), 1476-1501.
+
+* Neisy, A., & Peymany, M. (2011). Financial modeling by ordinary and stochastic differential equations. World Applied Sciences Journal, 13(11), 2288-2295.
+
+* Sauer, T. (2013). Computational solution of stochastic differential equations. Wiley Interdisciplinary Reviews: Computational Statistics, 5(5), 362-371.
+
+* Picchini, U. (2007). SDE Toolbox: Simulation and estimation of stochastic differential equations with MATLAB.
